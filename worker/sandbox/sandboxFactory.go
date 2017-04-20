@@ -87,6 +87,7 @@ func (df *DockerSBFactory) Create(handlerDir string, sandboxDir string) (Sandbox
 				Cmd:    df.cmd,
 			},
 			HostConfig: &docker.HostConfig{
+				Privileged: true,
 				Binds: volumes,
 			},
 		},

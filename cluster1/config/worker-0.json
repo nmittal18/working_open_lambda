@@ -1,0 +1,20 @@
+{
+	"registry": "local",
+	"sandbox": "docker",
+	"pool": "",
+	"reg_dir": "/home/ubuntu/open-lambda/cluster1/registry",
+	"cluster_name": "/home/ubuntu/open-lambda/cluster1",
+	"pip_mirror": "",
+	"pool_dir": "",
+	"num_forkservers": 1,
+	"reg_cluster": null,
+	"worker_dir": "/home/ubuntu/open-lambda/cluster1/workers/worker-0",
+	"Cgroup_init_path": "",
+	"Cgroup_base": "",
+	"worker_port": "8081",
+	"sandbox_buffer": 0,
+	"Skip_pull_existing": false,
+	"sandbox_config": {
+		"processes": 10
+	}
+}
