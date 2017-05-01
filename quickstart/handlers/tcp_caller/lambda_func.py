@@ -13,7 +13,8 @@ def child():
 	sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 	
 	# Connect the socket to the port where the server is listening
-	server_address = ('172.17.0.2', 8089)
+	#server_address = ('0.0.0.0', 1111)
+	server_address = ('0.0.0.0', 4567)
 	sock.connect(server_address)
 	
 	fg = open("server_response", 'wb') 

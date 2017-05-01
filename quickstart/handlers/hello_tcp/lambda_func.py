@@ -14,7 +14,7 @@ def handler(conn, event):
 	# Bind the socket to the port
 	f.write("socket address == ")
 	#server_address = ('http://172.17.0.1', 8089)
-	server_address = ('172.17.0.2', 8089)
+	server_address = ('0.0.0.0', 4567)
 	f.write(str(server_address))
 	f.write("==== ")
 	sock.bind(server_address)

@@ -1,0 +1,2501 @@
+* Hostname was NOT found in DNS cache
+*   Trying 172.17.0.1...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 172.17.0.1 (172.17.0.1) port 8080 (#0)
+> POST /runLambda/hello HTTP/1.0
+> User-Agent: curl/7.35.0
+> Host: 172.17.0.1:8080
+> Accept: */*
+> Content-Length: 65552
+> Content-Type: application/x-www-form-urlencoded
+> 
+} [data not shown]
+* HTTP 1.0, assume close after body
+< HTTP/1.0 200 OK
+< Access-Control-Allow-Headers: Content-Type, Content-Range, Content-Disposition, Content-Description, X-Requested-With
+< Access-Control-Allow-Methods: GET, PUT, POST, DELETE, OPTIONS
+< Access-Control-Allow-Origin: *
+< Date: Thu, 27 Apr 2017 01:02:14 GMT
+< Content-Length: 14
+< Content-Type: text/plain; charset=utf-8
+< 
+{ [data not shown]
+100 65566  100    14  100 65552    909  4160k --:--:-- --:--:-- --:--:-- 4000k100 65566  100    14  100 65552    904  4137k --:--:-- --:--:-- --:--:-- 4000k
+* Closing connection 0
+"Hello, Neha!"* Hostname was NOT found in DNS cache
+*   Trying 172.17.0.1...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 172.17.0.1 (172.17.0.1) port 8080 (#0)
+> POST /runLambda/hello HTTP/1.0
+> User-Agent: curl/7.35.0
+> Host: 172.17.0.1:8080
+> Accept: */*
+> Content-Length: 65552
+> Content-Type: application/x-www-form-urlencoded
+> 
+} [data not shown]
+* HTTP 1.0, assume close after body
+< HTTP/1.0 200 OK
+< Access-Control-Allow-Headers: Content-Type, Content-Range, Content-Disposition, Content-Description, X-Requested-With
+< Access-Control-Allow-Methods: GET, PUT, POST, DELETE, OPTIONS
+< Access-Control-Allow-Origin: *
+< Date: Thu, 27 Apr 2017 01:02:14 GMT
+< Content-Length: 14
+< Content-Type: text/plain; charset=utf-8
+< 
+{ [data not shown]
+100 65566  100    14  100 65552    966  4419k --:--:-- --:--:-- --:--:-- 4572k
+* Closing connection 0
+"Hello, Neha!"* Hostname was NOT found in DNS cache
+*   Trying 172.17.0.1...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 172.17.0.1 (172.17.0.1) port 8080 (#0)
+> POST /runLambda/hello HTTP/1.0
+> User-Agent: curl/7.35.0
+> Host: 172.17.0.1:8080
+> Accept: */*
+> Content-Length: 65552
+> Content-Type: application/x-www-form-urlencoded
+> 
+} [data not shown]
+* HTTP 1.0, assume close after body
+< HTTP/1.0 200 OK
+< Access-Control-Allow-Headers: Content-Type, Content-Range, Content-Disposition, Content-Description, X-Requested-With
+< Access-Control-Allow-Methods: GET, PUT, POST, DELETE, OPTIONS
+< Access-Control-Allow-Origin: *
+< Date: Thu, 27 Apr 2017 01:02:15 GMT
+< Content-Length: 14
+< Content-Type: text/plain; charset=utf-8
+< 
+{ [data not shown]
+100 65566  100    14  100 65552    668  3054k --:--:-- --:--:-- --:--:-- 3200k
+* Closing connection 0
+"Hello, Neha!"* Hostname was NOT found in DNS cache
+*   Trying 172.17.0.1...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 172.17.0.1 (172.17.0.1) port 8080 (#0)
+> POST /runLambda/hello HTTP/1.0
+> User-Agent: curl/7.35.0
+> Host: 172.17.0.1:8080
+> Accept: */*
+> Content-Length: 65552
+> Content-Type: application/x-www-form-urlencoded
+> 
+} [data not shown]
+* HTTP 1.0, assume close after body
+< HTTP/1.0 200 OK
+< Access-Control-Allow-Headers: Content-Type, Content-Range, Content-Disposition, Content-Description, X-Requested-With
+< Access-Control-Allow-Methods: GET, PUT, POST, DELETE, OPTIONS
+< Access-Control-Allow-Origin: *
+< Date: Thu, 27 Apr 2017 01:02:15 GMT
+< Content-Length: 14
+< Content-Type: text/plain; charset=utf-8
+< 
+{ [data not shown]
+100 65566  100    14  100 65552   1014  4638k --:--:-- --:--:-- --:--:-- 4924k
+* Closing connection 0
+"Hello, Neha!"* Hostname was NOT found in DNS cache
+*   Trying 172.17.0.1...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 172.17.0.1 (172.17.0.1) port 8080 (#0)
+> POST /runLambda/hello HTTP/1.0
+> User-Agent: curl/7.35.0
+> Host: 172.17.0.1:8080
+> Accept: */*
+> Content-Length: 65552
+> Content-Type: application/x-www-form-urlencoded
+> 
+} [data not shown]
+* HTTP 1.0, assume close after body
+< HTTP/1.0 200 OK
+< Access-Control-Allow-Headers: Content-Type, Content-Range, Content-Disposition, Content-Description, X-Requested-With
+< Access-Control-Allow-Methods: GET, PUT, POST, DELETE, OPTIONS
+< Access-Control-Allow-Origin: *
+< Date: Thu, 27 Apr 2017 01:02:15 GMT
+< Content-Length: 14
+< Content-Type: text/plain; charset=utf-8
+< 
+{ [data not shown]
+100 65566  100    14  100 65552   1010  4618k --:--:-- --:--:-- --:--:-- 4924k
+* Closing connection 0
+"Hello, Neha!"* Hostname was NOT found in DNS cache
+*   Trying 172.17.0.1...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 172.17.0.1 (172.17.0.1) port 8080 (#0)
+> POST /runLambda/hello HTTP/1.0
+> User-Agent: curl/7.35.0
+> Host: 172.17.0.1:8080
+> Accept: */*
+> Content-Length: 65552
+> Content-Type: application/x-www-form-urlencoded
+> 
+} [data not shown]
+* HTTP 1.0, assume close after body
+< HTTP/1.0 200 OK
+< Access-Control-Allow-Headers: Content-Type, Content-Range, Content-Disposition, Content-Description, X-Requested-With
+< Access-Control-Allow-Methods: GET, PUT, POST, DELETE, OPTIONS
+< Access-Control-Allow-Origin: *
+< Date: Thu, 27 Apr 2017 01:02:15 GMT
+< Content-Length: 14
+< Content-Type: text/plain; charset=utf-8
+< 
+{ [data not shown]
+100 65566  100    14  100 65552   1025  4690k --:--:-- --:--:-- --:--:-- 4924k
+* Closing connection 0
+"Hello, Neha!"* Hostname was NOT found in DNS cache
+*   Trying 172.17.0.1...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 172.17.0.1 (172.17.0.1) port 8080 (#0)
+> POST /runLambda/hello HTTP/1.0
+> User-Agent: curl/7.35.0
+> Host: 172.17.0.1:8080
+> Accept: */*
+> Content-Length: 65552
+> Content-Type: application/x-www-form-urlencoded
+> 
+} [data not shown]
+* HTTP 1.0, assume close after body
+< HTTP/1.0 200 OK
+< Access-Control-Allow-Headers: Content-Type, Content-Range, Content-Disposition, Content-Description, X-Requested-With
+< Access-Control-Allow-Methods: GET, PUT, POST, DELETE, OPTIONS
+< Access-Control-Allow-Origin: *
+< Date: Thu, 27 Apr 2017 01:02:15 GMT
+< Content-Length: 14
+< Content-Type: text/plain; charset=utf-8
+< 
+{ [data not shown]
+100 65566  100    14  100 65552   1023  4679k --:--:-- --:--:-- --:--:-- 4924k
+* Closing connection 0
+"Hello, Neha!"* Hostname was NOT found in DNS cache
+*   Trying 172.17.0.1...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 172.17.0.1 (172.17.0.1) port 8080 (#0)
+> POST /runLambda/hello HTTP/1.0
+> User-Agent: curl/7.35.0
+> Host: 172.17.0.1:8080
+> Accept: */*
+> Content-Length: 65552
+> Content-Type: application/x-www-form-urlencoded
+> 
+} [data not shown]
+* HTTP 1.0, assume close after body
+< HTTP/1.0 200 OK
+< Access-Control-Allow-Headers: Content-Type, Content-Range, Content-Disposition, Content-Description, X-Requested-With
+< Access-Control-Allow-Methods: GET, PUT, POST, DELETE, OPTIONS
+< Access-Control-Allow-Origin: *
+< Date: Thu, 27 Apr 2017 01:02:15 GMT
+< Content-Length: 14
+< Content-Type: text/plain; charset=utf-8
+< 
+{ [data not shown]
+100 65566  100    14  100 65552    713  3261k --:--:-- --:--:-- --:--:-- 3369k
+* Closing connection 0
+"Hello, Neha!"* Hostname was NOT found in DNS cache
+*   Trying 172.17.0.1...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 172.17.0.1 (172.17.0.1) port 8080 (#0)
+> POST /runLambda/hello HTTP/1.0
+> User-Agent: curl/7.35.0
+> Host: 172.17.0.1:8080
+> Accept: */*
+> Content-Length: 65552
+> Content-Type: application/x-www-form-urlencoded
+> 
+} [data not shown]
+* HTTP 1.0, assume close after body
+< HTTP/1.0 200 OK
+< Access-Control-Allow-Headers: Content-Type, Content-Range, Content-Disposition, Content-Description, X-Requested-With
+< Access-Control-Allow-Methods: GET, PUT, POST, DELETE, OPTIONS
+< Access-Control-Allow-Origin: *
+< Date: Thu, 27 Apr 2017 01:02:15 GMT
+< Content-Length: 14
+< Content-Type: text/plain; charset=utf-8
+< 
+{ [data not shown]
+100 65566  100    14  100 65552    961  4395k --:--:-- --:--:-- --:--:-- 4572k
+* Closing connection 0
+"Hello, Neha!"* Hostname was NOT found in DNS cache
+*   Trying 172.17.0.1...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 172.17.0.1 (172.17.0.1) port 8080 (#0)
+> POST /runLambda/hello HTTP/1.0
+> User-Agent: curl/7.35.0
+> Host: 172.17.0.1:8080
+> Accept: */*
+> Content-Length: 65552
+> Content-Type: application/x-www-form-urlencoded
+> 
+} [data not shown]
+* HTTP 1.0, assume close after body
+< HTTP/1.0 200 OK
+< Access-Control-Allow-Headers: Content-Type, Content-Range, Content-Disposition, Content-Description, X-Requested-With
+< Access-Control-Allow-Methods: GET, PUT, POST, DELETE, OPTIONS
+< Access-Control-Allow-Origin: *
+< Date: Thu, 27 Apr 2017 01:02:15 GMT
+< Content-Length: 14
+< Content-Type: text/plain; charset=utf-8
+< 
+{ [data not shown]
+100 65566  100    14  100 65552    696  3186k --:--:-- --:--:-- --:--:-- 3369k
+* Closing connection 0
+"Hello, Neha!"* Hostname was NOT found in DNS cache
+*   Trying 172.17.0.1...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 172.17.0.1 (172.17.0.1) port 8080 (#0)
+> POST /runLambda/hello HTTP/1.0
+> User-Agent: curl/7.35.0
+> Host: 172.17.0.1:8080
+> Accept: */*
+> Content-Length: 65552
+> Content-Type: application/x-www-form-urlencoded
+> 
+} [data not shown]
+* HTTP 1.0, assume close after body
+< HTTP/1.0 200 OK
+< Access-Control-Allow-Headers: Content-Type, Content-Range, Content-Disposition, Content-Description, X-Requested-With
+< Access-Control-Allow-Methods: GET, PUT, POST, DELETE, OPTIONS
+< Access-Control-Allow-Origin: *
+< Date: Thu, 27 Apr 2017 01:02:15 GMT
+< Content-Length: 14
+< Content-Type: text/plain; charset=utf-8
+< 
+{ [data not shown]
+100 65566  100    14  100 65552    889  4066k --:--:-- --:--:-- --:--:-- 4267k
+* Closing connection 0
+"Hello, Neha!"* Hostname was NOT found in DNS cache
+*   Trying 172.17.0.1...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 172.17.0.1 (172.17.0.1) port 8080 (#0)
+> POST /runLambda/hello HTTP/1.0
+> User-Agent: curl/7.35.0
+> Host: 172.17.0.1:8080
+> Accept: */*
+> Content-Length: 65552
+> Content-Type: application/x-www-form-urlencoded
+> 
+} [data not shown]
+* HTTP 1.0, assume close after body
+< HTTP/1.0 200 OK
+< Access-Control-Allow-Headers: Content-Type, Content-Range, Content-Disposition, Content-Description, X-Requested-With
+< Access-Control-Allow-Methods: GET, PUT, POST, DELETE, OPTIONS
+< Access-Control-Allow-Origin: *
+< Date: Thu, 27 Apr 2017 01:02:15 GMT
+< Content-Length: 14
+< Content-Type: text/plain; charset=utf-8
+< 
+{ [data not shown]
+100 65566  100    14  100 65552    918  4199k --:--:-- --:--:-- --:--:-- 4572k
+* Closing connection 0
+"Hello, Neha!"* Hostname was NOT found in DNS cache
+*   Trying 172.17.0.1...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 172.17.0.1 (172.17.0.1) port 8080 (#0)
+> POST /runLambda/hello HTTP/1.0
+> User-Agent: curl/7.35.0
+> Host: 172.17.0.1:8080
+> Accept: */*
+> Content-Length: 65552
+> Content-Type: application/x-www-form-urlencoded
+> 
+} [data not shown]
+* HTTP 1.0, assume close after body
+< HTTP/1.0 200 OK
+< Access-Control-Allow-Headers: Content-Type, Content-Range, Content-Disposition, Content-Description, X-Requested-With
+< Access-Control-Allow-Methods: GET, PUT, POST, DELETE, OPTIONS
+< Access-Control-Allow-Origin: *
+< Date: Thu, 27 Apr 2017 01:02:15 GMT
+< Content-Length: 14
+< Content-Type: text/plain; charset=utf-8
+< 
+{ [data not shown]
+100 65566  100    14  100 65552   1002  4583k --:--:-- --:--:-- --:--:-- 4924k
+* Closing connection 0
+"Hello, Neha!"* Hostname was NOT found in DNS cache
+*   Trying 172.17.0.1...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 172.17.0.1 (172.17.0.1) port 8080 (#0)
+> POST /runLambda/hello HTTP/1.0
+> User-Agent: curl/7.35.0
+> Host: 172.17.0.1:8080
+> Accept: */*
+> Content-Length: 65552
+> Content-Type: application/x-www-form-urlencoded
+> 
+} [data not shown]
+* HTTP 1.0, assume close after body
+< HTTP/1.0 200 OK
+< Access-Control-Allow-Headers: Content-Type, Content-Range, Content-Disposition, Content-Description, X-Requested-With
+< Access-Control-Allow-Methods: GET, PUT, POST, DELETE, OPTIONS
+< Access-Control-Allow-Origin: *
+< Date: Thu, 27 Apr 2017 01:02:15 GMT
+< Content-Length: 14
+< Content-Type: text/plain; charset=utf-8
+< 
+{ [data not shown]
+100 65566  100    14  100 65552   1013  4633k --:--:-- --:--:-- --:--:-- 4924k
+* Closing connection 0
+"Hello, Neha!"* Hostname was NOT found in DNS cache
+*   Trying 172.17.0.1...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 172.17.0.1 (172.17.0.1) port 8080 (#0)
+> POST /runLambda/hello HTTP/1.0
+> User-Agent: curl/7.35.0
+> Host: 172.17.0.1:8080
+> Accept: */*
+> Content-Length: 65552
+> Content-Type: application/x-www-form-urlencoded
+> 
+} [data not shown]
+* HTTP 1.0, assume close after body
+< HTTP/1.0 200 OK
+< Access-Control-Allow-Headers: Content-Type, Content-Range, Content-Disposition, Content-Description, X-Requested-With
+< Access-Control-Allow-Methods: GET, PUT, POST, DELETE, OPTIONS
+< Access-Control-Allow-Origin: *
+< Date: Thu, 27 Apr 2017 01:02:15 GMT
+< Content-Length: 14
+< Content-Type: text/plain; charset=utf-8
+< 
+{ [data not shown]
+100 65566  100    14  100 65552    997  4562k --:--:-- --:--:-- --:--:-- 4924k
+* Closing connection 0
+"Hello, Neha!"* Hostname was NOT found in DNS cache
+*   Trying 172.17.0.1...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 172.17.0.1 (172.17.0.1) port 8080 (#0)
+> POST /runLambda/hello HTTP/1.0
+> User-Agent: curl/7.35.0
+> Host: 172.17.0.1:8080
+> Accept: */*
+> Content-Length: 65552
+> Content-Type: application/x-www-form-urlencoded
+> 
+} [data not shown]
+* HTTP 1.0, assume close after body
+< HTTP/1.0 200 OK
+< Access-Control-Allow-Headers: Content-Type, Content-Range, Content-Disposition, Content-Description, X-Requested-With
+< Access-Control-Allow-Methods: GET, PUT, POST, DELETE, OPTIONS
+< Access-Control-Allow-Origin: *
+< Date: Thu, 27 Apr 2017 01:02:15 GMT
+< Content-Length: 14
+< Content-Type: text/plain; charset=utf-8
+< 
+{ [data not shown]
+100 65566  100    14  100 65552   1017  4652k --:--:-- --:--:-- --:--:-- 4924k
+* Closing connection 0
+"Hello, Neha!"* Hostname was NOT found in DNS cache
+*   Trying 172.17.0.1...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 172.17.0.1 (172.17.0.1) port 8080 (#0)
+> POST /runLambda/hello HTTP/1.0
+> User-Agent: curl/7.35.0
+> Host: 172.17.0.1:8080
+> Accept: */*
+> Content-Length: 65552
+> Content-Type: application/x-www-form-urlencoded
+> 
+} [data not shown]
+* HTTP 1.0, assume close after body
+< HTTP/1.0 200 OK
+< Access-Control-Allow-Headers: Content-Type, Content-Range, Content-Disposition, Content-Description, X-Requested-With
+< Access-Control-Allow-Methods: GET, PUT, POST, DELETE, OPTIONS
+< Access-Control-Allow-Origin: *
+< Date: Thu, 27 Apr 2017 01:02:15 GMT
+< Content-Length: 14
+< Content-Type: text/plain; charset=utf-8
+< 
+{ [data not shown]
+100 65566  100    14  100 65552    787  3600k --:--:-- --:--:-- --:--:-- 3765k
+* Closing connection 0
+"Hello, Neha!"* Hostname was NOT found in DNS cache
+*   Trying 172.17.0.1...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 172.17.0.1 (172.17.0.1) port 8080 (#0)
+> POST /runLambda/hello HTTP/1.0
+> User-Agent: curl/7.35.0
+> Host: 172.17.0.1:8080
+> Accept: */*
+> Content-Length: 65552
+> Content-Type: application/x-www-form-urlencoded
+> 
+} [data not shown]
+* HTTP 1.0, assume close after body
+< HTTP/1.0 200 OK
+< Access-Control-Allow-Headers: Content-Type, Content-Range, Content-Disposition, Content-Description, X-Requested-With
+< Access-Control-Allow-Methods: GET, PUT, POST, DELETE, OPTIONS
+< Access-Control-Allow-Origin: *
+< Date: Thu, 27 Apr 2017 01:02:15 GMT
+< Content-Length: 14
+< Content-Type: text/plain; charset=utf-8
+< 
+{ [data not shown]
+100 65566  100    14  100 65552   1068  4883k --:--:-- --:--:-- --:--:-- 5334k
+* Closing connection 0
+"Hello, Neha!"* Hostname was NOT found in DNS cache
+*   Trying 172.17.0.1...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 172.17.0.1 (172.17.0.1) port 8080 (#0)
+> POST /runLambda/hello HTTP/1.0
+> User-Agent: curl/7.35.0
+> Host: 172.17.0.1:8080
+> Accept: */*
+> Content-Length: 65552
+> Content-Type: application/x-www-form-urlencoded
+> 
+} [data not shown]
+* HTTP 1.0, assume close after body
+< HTTP/1.0 200 OK
+< Access-Control-Allow-Headers: Content-Type, Content-Range, Content-Disposition, Content-Description, X-Requested-With
+< Access-Control-Allow-Methods: GET, PUT, POST, DELETE, OPTIONS
+< Access-Control-Allow-Origin: *
+< Date: Thu, 27 Apr 2017 01:02:15 GMT
+< Content-Length: 14
+< Content-Type: text/plain; charset=utf-8
+< 
+{ [data not shown]
+100 65566  100    14  100 65552   1021  4671k --:--:-- --:--:-- --:--:-- 4924k
+* Closing connection 0
+"Hello, Neha!"* Hostname was NOT found in DNS cache
+*   Trying 172.17.0.1...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 172.17.0.1 (172.17.0.1) port 8080 (#0)
+> POST /runLambda/hello HTTP/1.0
+> User-Agent: curl/7.35.0
+> Host: 172.17.0.1:8080
+> Accept: */*
+> Content-Length: 65552
+> Content-Type: application/x-www-form-urlencoded
+> 
+} [data not shown]
+* HTTP 1.0, assume close after body
+< HTTP/1.0 200 OK
+< Access-Control-Allow-Headers: Content-Type, Content-Range, Content-Disposition, Content-Description, X-Requested-With
+< Access-Control-Allow-Methods: GET, PUT, POST, DELETE, OPTIONS
+< Access-Control-Allow-Origin: *
+< Date: Thu, 27 Apr 2017 01:02:15 GMT
+< Content-Length: 14
+< Content-Type: text/plain; charset=utf-8
+< 
+{ [data not shown]
+100 65566  100    14  100 65552   1047  4791k --:--:-- --:--:-- --:--:-- 4924k
+* Closing connection 0
+"Hello, Neha!"* Hostname was NOT found in DNS cache
+*   Trying 172.17.0.1...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 172.17.0.1 (172.17.0.1) port 8080 (#0)
+> POST /runLambda/hello HTTP/1.0
+> User-Agent: curl/7.35.0
+> Host: 172.17.0.1:8080
+> Accept: */*
+> Content-Length: 65552
+> Content-Type: application/x-www-form-urlencoded
+> 
+} [data not shown]
+* HTTP 1.0, assume close after body
+< HTTP/1.0 200 OK
+< Access-Control-Allow-Headers: Content-Type, Content-Range, Content-Disposition, Content-Description, X-Requested-With
+< Access-Control-Allow-Methods: GET, PUT, POST, DELETE, OPTIONS
+< Access-Control-Allow-Origin: *
+< Date: Thu, 27 Apr 2017 01:02:15 GMT
+< Content-Length: 14
+< Content-Type: text/plain; charset=utf-8
+< 
+{ [data not shown]
+100 65566  100    14  100 65552   1064  4866k --:--:-- --:--:-- --:--:-- 5334k
+* Closing connection 0
+"Hello, Neha!"* Hostname was NOT found in DNS cache
+*   Trying 172.17.0.1...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 172.17.0.1 (172.17.0.1) port 8080 (#0)
+> POST /runLambda/hello HTTP/1.0
+> User-Agent: curl/7.35.0
+> Host: 172.17.0.1:8080
+> Accept: */*
+> Content-Length: 65552
+> Content-Type: application/x-www-form-urlencoded
+> 
+} [data not shown]
+* HTTP 1.0, assume close after body
+< HTTP/1.0 200 OK
+< Access-Control-Allow-Headers: Content-Type, Content-Range, Content-Disposition, Content-Description, X-Requested-With
+< Access-Control-Allow-Methods: GET, PUT, POST, DELETE, OPTIONS
+< Access-Control-Allow-Origin: *
+< Date: Thu, 27 Apr 2017 01:02:15 GMT
+< Content-Length: 14
+< Content-Type: text/plain; charset=utf-8
+< 
+{ [data not shown]
+100 65566  100    14  100 65552   1043  4770k --:--:-- --:--:-- --:--:-- 4924k
+* Closing connection 0
+"Hello, Neha!"* Hostname was NOT found in DNS cache
+*   Trying 172.17.0.1...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 172.17.0.1 (172.17.0.1) port 8080 (#0)
+> POST /runLambda/hello HTTP/1.0
+> User-Agent: curl/7.35.0
+> Host: 172.17.0.1:8080
+> Accept: */*
+> Content-Length: 65552
+> Content-Type: application/x-www-form-urlencoded
+> 
+} [data not shown]
+* HTTP 1.0, assume close after body
+< HTTP/1.0 200 OK
+< Access-Control-Allow-Headers: Content-Type, Content-Range, Content-Disposition, Content-Description, X-Requested-With
+< Access-Control-Allow-Methods: GET, PUT, POST, DELETE, OPTIONS
+< Access-Control-Allow-Origin: *
+< Date: Thu, 27 Apr 2017 01:02:15 GMT
+< Content-Length: 14
+< Content-Type: text/plain; charset=utf-8
+< 
+{ [data not shown]
+100 65566  100    14  100 65552    974  4455k --:--:-- --:--:-- --:--:-- 4572k
+* Closing connection 0
+"Hello, Neha!"* Hostname was NOT found in DNS cache
+*   Trying 172.17.0.1...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 172.17.0.1 (172.17.0.1) port 8080 (#0)
+> POST /runLambda/hello HTTP/1.0
+> User-Agent: curl/7.35.0
+> Host: 172.17.0.1:8080
+> Accept: */*
+> Content-Length: 65552
+> Content-Type: application/x-www-form-urlencoded
+> 
+} [data not shown]
+* HTTP 1.0, assume close after body
+< HTTP/1.0 200 OK
+< Access-Control-Allow-Headers: Content-Type, Content-Range, Content-Disposition, Content-Description, X-Requested-With
+< Access-Control-Allow-Methods: GET, PUT, POST, DELETE, OPTIONS
+< Access-Control-Allow-Origin: *
+< Date: Thu, 27 Apr 2017 01:02:15 GMT
+< Content-Length: 14
+< Content-Type: text/plain; charset=utf-8
+< 
+{ [data not shown]
+100 65566  100    14  100 65552    692  3165k --:--:-- --:--:-- --:--:-- 3369k
+* Closing connection 0
+"Hello, Neha!"* Hostname was NOT found in DNS cache
+*   Trying 172.17.0.1...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 172.17.0.1 (172.17.0.1) port 8080 (#0)
+> POST /runLambda/hello HTTP/1.0
+> User-Agent: curl/7.35.0
+> Host: 172.17.0.1:8080
+> Accept: */*
+> Content-Length: 65552
+> Content-Type: application/x-www-form-urlencoded
+> 
+} [data not shown]
+* HTTP 1.0, assume close after body
+< HTTP/1.0 200 OK
+< Access-Control-Allow-Headers: Content-Type, Content-Range, Content-Disposition, Content-Description, X-Requested-With
+< Access-Control-Allow-Methods: GET, PUT, POST, DELETE, OPTIONS
+< Access-Control-Allow-Origin: *
+< Date: Thu, 27 Apr 2017 01:02:15 GMT
+< Content-Length: 14
+< Content-Type: text/plain; charset=utf-8
+< 
+{ [data not shown]
+100 65566  100    14  100 65552    940  4298k --:--:-- --:--:-- --:--:-- 4572k
+* Closing connection 0
+"Hello, Neha!"* Hostname was NOT found in DNS cache
+*   Trying 172.17.0.1...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 172.17.0.1 (172.17.0.1) port 8080 (#0)
+> POST /runLambda/hello HTTP/1.0
+> User-Agent: curl/7.35.0
+> Host: 172.17.0.1:8080
+> Accept: */*
+> Content-Length: 65552
+> Content-Type: application/x-www-form-urlencoded
+> 
+} [data not shown]
+* HTTP 1.0, assume close after body
+< HTTP/1.0 200 OK
+< Access-Control-Allow-Headers: Content-Type, Content-Range, Content-Disposition, Content-Description, X-Requested-With
+< Access-Control-Allow-Methods: GET, PUT, POST, DELETE, OPTIONS
+< Access-Control-Allow-Origin: *
+< Date: Thu, 27 Apr 2017 01:02:15 GMT
+< Content-Length: 14
+< Content-Type: text/plain; charset=utf-8
+< 
+{ [data not shown]
+100 65566  100    14  100 65552   1002  4584k --:--:-- --:--:-- --:--:-- 4924k
+* Closing connection 0
+"Hello, Neha!"* Hostname was NOT found in DNS cache
+*   Trying 172.17.0.1...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 172.17.0.1 (172.17.0.1) port 8080 (#0)
+> POST /runLambda/hello HTTP/1.0
+> User-Agent: curl/7.35.0
+> Host: 172.17.0.1:8080
+> Accept: */*
+> Content-Length: 65552
+> Content-Type: application/x-www-form-urlencoded
+> 
+} [data not shown]
+* HTTP 1.0, assume close after body
+< HTTP/1.0 200 OK
+< Access-Control-Allow-Headers: Content-Type, Content-Range, Content-Disposition, Content-Description, X-Requested-With
+< Access-Control-Allow-Methods: GET, PUT, POST, DELETE, OPTIONS
+< Access-Control-Allow-Origin: *
+< Date: Thu, 27 Apr 2017 01:02:15 GMT
+< Content-Length: 14
+< Content-Type: text/plain; charset=utf-8
+< 
+{ [data not shown]
+100 65566  100    14  100 65552    999  4571k --:--:-- --:--:-- --:--:-- 4924k
+* Closing connection 0
+"Hello, Neha!"* Hostname was NOT found in DNS cache
+*   Trying 172.17.0.1...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 172.17.0.1 (172.17.0.1) port 8080 (#0)
+> POST /runLambda/hello HTTP/1.0
+> User-Agent: curl/7.35.0
+> Host: 172.17.0.1:8080
+> Accept: */*
+> Content-Length: 65552
+> Content-Type: application/x-www-form-urlencoded
+> 
+} [data not shown]
+* HTTP 1.0, assume close after body
+< HTTP/1.0 200 OK
+< Access-Control-Allow-Headers: Content-Type, Content-Range, Content-Disposition, Content-Description, X-Requested-With
+< Access-Control-Allow-Methods: GET, PUT, POST, DELETE, OPTIONS
+< Access-Control-Allow-Origin: *
+< Date: Thu, 27 Apr 2017 01:02:15 GMT
+< Content-Length: 14
+< Content-Type: text/plain; charset=utf-8
+< 
+{ [data not shown]
+100 65566  100    14  100 65552   1051  4809k --:--:-- --:--:-- --:--:-- 4924k
+* Closing connection 0
+"Hello, Neha!"* Hostname was NOT found in DNS cache
+*   Trying 172.17.0.1...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 172.17.0.1 (172.17.0.1) port 8080 (#0)
+> POST /runLambda/hello HTTP/1.0
+> User-Agent: curl/7.35.0
+> Host: 172.17.0.1:8080
+> Accept: */*
+> Content-Length: 65552
+> Content-Type: application/x-www-form-urlencoded
+> 
+} [data not shown]
+* HTTP 1.0, assume close after body
+< HTTP/1.0 200 OK
+< Access-Control-Allow-Headers: Content-Type, Content-Range, Content-Disposition, Content-Description, X-Requested-With
+< Access-Control-Allow-Methods: GET, PUT, POST, DELETE, OPTIONS
+< Access-Control-Allow-Origin: *
+< Date: Thu, 27 Apr 2017 01:02:15 GMT
+< Content-Length: 14
+< Content-Type: text/plain; charset=utf-8
+< 
+{ [data not shown]
+100 65566  100    14  100 65552   1070  4894k --:--:-- --:--:-- --:--:-- 5334k
+* Closing connection 0
+"Hello, Neha!"* Hostname was NOT found in DNS cache
+*   Trying 172.17.0.1...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 172.17.0.1 (172.17.0.1) port 8080 (#0)
+> POST /runLambda/hello HTTP/1.0
+> User-Agent: curl/7.35.0
+> Host: 172.17.0.1:8080
+> Accept: */*
+> Content-Length: 65552
+> Content-Type: application/x-www-form-urlencoded
+> 
+} [data not shown]
+* HTTP 1.0, assume close after body
+< HTTP/1.0 200 OK
+< Access-Control-Allow-Headers: Content-Type, Content-Range, Content-Disposition, Content-Description, X-Requested-With
+< Access-Control-Allow-Methods: GET, PUT, POST, DELETE, OPTIONS
+< Access-Control-Allow-Origin: *
+< Date: Thu, 27 Apr 2017 01:02:15 GMT
+< Content-Length: 14
+< Content-Type: text/plain; charset=utf-8
+< 
+{ [data not shown]
+100 65566  100    14  100 65552    997  4563k --:--:-- --:--:-- --:--:-- 4924k
+* Closing connection 0
+"Hello, Neha!"* Hostname was NOT found in DNS cache
+*   Trying 172.17.0.1...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 172.17.0.1 (172.17.0.1) port 8080 (#0)
+> POST /runLambda/hello HTTP/1.0
+> User-Agent: curl/7.35.0
+> Host: 172.17.0.1:8080
+> Accept: */*
+> Content-Length: 65552
+> Content-Type: application/x-www-form-urlencoded
+> 
+} [data not shown]
+* HTTP 1.0, assume close after body
+< HTTP/1.0 200 OK
+< Access-Control-Allow-Headers: Content-Type, Content-Range, Content-Disposition, Content-Description, X-Requested-With
+< Access-Control-Allow-Methods: GET, PUT, POST, DELETE, OPTIONS
+< Access-Control-Allow-Origin: *
+< Date: Thu, 27 Apr 2017 01:02:15 GMT
+< Content-Length: 14
+< Content-Type: text/plain; charset=utf-8
+< 
+{ [data not shown]
+100 65566  100    14  100 65552    926  4236k --:--:-- --:--:-- --:--:-- 4572k
+* Closing connection 0
+"Hello, Neha!"* Hostname was NOT found in DNS cache
+*   Trying 172.17.0.1...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 172.17.0.1 (172.17.0.1) port 8080 (#0)
+> POST /runLambda/hello HTTP/1.0
+> User-Agent: curl/7.35.0
+> Host: 172.17.0.1:8080
+> Accept: */*
+> Content-Length: 65552
+> Content-Type: application/x-www-form-urlencoded
+> 
+} [data not shown]
+* HTTP 1.0, assume close after body
+< HTTP/1.0 200 OK
+< Access-Control-Allow-Headers: Content-Type, Content-Range, Content-Disposition, Content-Description, X-Requested-With
+< Access-Control-Allow-Methods: GET, PUT, POST, DELETE, OPTIONS
+< Access-Control-Allow-Origin: *
+< Date: Thu, 27 Apr 2017 01:02:15 GMT
+< Content-Length: 14
+< Content-Type: text/plain; charset=utf-8
+< 
+{ [data not shown]
+100 65566  100    14  100 65552    732  3347k --:--:-- --:--:-- --:--:-- 3556k
+* Closing connection 0
+"Hello, Neha!"* Hostname was NOT found in DNS cache
+*   Trying 172.17.0.1...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 172.17.0.1 (172.17.0.1) port 8080 (#0)
+> POST /runLambda/hello HTTP/1.0
+> User-Agent: curl/7.35.0
+> Host: 172.17.0.1:8080
+> Accept: */*
+> Content-Length: 65552
+> Content-Type: application/x-www-form-urlencoded
+> 
+} [data not shown]
+* HTTP 1.0, assume close after body
+< HTTP/1.0 200 OK
+< Access-Control-Allow-Headers: Content-Type, Content-Range, Content-Disposition, Content-Description, X-Requested-With
+< Access-Control-Allow-Methods: GET, PUT, POST, DELETE, OPTIONS
+< Access-Control-Allow-Origin: *
+< Date: Thu, 27 Apr 2017 01:02:15 GMT
+< Content-Length: 14
+< Content-Type: text/plain; charset=utf-8
+< 
+{ [data not shown]
+100 65566  100    14  100 65552   1070  4895k --:--:-- --:--:-- --:--:-- 5334k
+* Closing connection 0
+"Hello, Neha!"* Hostname was NOT found in DNS cache
+*   Trying 172.17.0.1...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 172.17.0.1 (172.17.0.1) port 8080 (#0)
+> POST /runLambda/hello HTTP/1.0
+> User-Agent: curl/7.35.0
+> Host: 172.17.0.1:8080
+> Accept: */*
+> Content-Length: 65552
+> Content-Type: application/x-www-form-urlencoded
+> 
+} [data not shown]
+* HTTP 1.0, assume close after body
+< HTTP/1.0 200 OK
+< Access-Control-Allow-Headers: Content-Type, Content-Range, Content-Disposition, Content-Description, X-Requested-With
+< Access-Control-Allow-Methods: GET, PUT, POST, DELETE, OPTIONS
+< Access-Control-Allow-Origin: *
+< Date: Thu, 27 Apr 2017 01:02:15 GMT
+< Content-Length: 14
+< Content-Type: text/plain; charset=utf-8
+< 
+{ [data not shown]
+100 65566  100    14  100 65552   1039  4752k --:--:-- --:--:-- --:--:-- 4924k
+* Closing connection 0
+"Hello, Neha!"* Hostname was NOT found in DNS cache
+*   Trying 172.17.0.1...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 172.17.0.1 (172.17.0.1) port 8080 (#0)
+> POST /runLambda/hello HTTP/1.0
+> User-Agent: curl/7.35.0
+> Host: 172.17.0.1:8080
+> Accept: */*
+> Content-Length: 65552
+> Content-Type: application/x-www-form-urlencoded
+> 
+} [data not shown]
+* HTTP 1.0, assume close after body
+< HTTP/1.0 200 OK
+< Access-Control-Allow-Headers: Content-Type, Content-Range, Content-Disposition, Content-Description, X-Requested-With
+< Access-Control-Allow-Methods: GET, PUT, POST, DELETE, OPTIONS
+< Access-Control-Allow-Origin: *
+< Date: Thu, 27 Apr 2017 01:02:15 GMT
+< Content-Length: 14
+< Content-Type: text/plain; charset=utf-8
+< 
+{ [data not shown]
+100 65566  100    14  100 65552   1071  4901k --:--:-- --:--:-- --:--:-- 5334k
+* Closing connection 0
+"Hello, Neha!"* Hostname was NOT found in DNS cache
+*   Trying 172.17.0.1...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 172.17.0.1 (172.17.0.1) port 8080 (#0)
+> POST /runLambda/hello HTTP/1.0
+> User-Agent: curl/7.35.0
+> Host: 172.17.0.1:8080
+> Accept: */*
+> Content-Length: 65552
+> Content-Type: application/x-www-form-urlencoded
+> 
+} [data not shown]
+* HTTP 1.0, assume close after body
+< HTTP/1.0 200 OK
+< Access-Control-Allow-Headers: Content-Type, Content-Range, Content-Disposition, Content-Description, X-Requested-With
+< Access-Control-Allow-Methods: GET, PUT, POST, DELETE, OPTIONS
+< Access-Control-Allow-Origin: *
+< Date: Thu, 27 Apr 2017 01:02:15 GMT
+< Content-Length: 14
+< Content-Type: text/plain; charset=utf-8
+< 
+{ [data not shown]
+100 65566  100    14  100 65552    961  4398k --:--:-- --:--:-- --:--:-- 4572k
+* Closing connection 0
+"Hello, Neha!"* Hostname was NOT found in DNS cache
+*   Trying 172.17.0.1...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 172.17.0.1 (172.17.0.1) port 8080 (#0)
+> POST /runLambda/hello HTTP/1.0
+> User-Agent: curl/7.35.0
+> Host: 172.17.0.1:8080
+> Accept: */*
+> Content-Length: 65552
+> Content-Type: application/x-www-form-urlencoded
+> 
+} [data not shown]
+* HTTP 1.0, assume close after body
+< HTTP/1.0 200 OK
+< Access-Control-Allow-Headers: Content-Type, Content-Range, Content-Disposition, Content-Description, X-Requested-With
+< Access-Control-Allow-Methods: GET, PUT, POST, DELETE, OPTIONS
+< Access-Control-Allow-Origin: *
+< Date: Thu, 27 Apr 2017 01:02:15 GMT
+< Content-Length: 14
+< Content-Type: text/plain; charset=utf-8
+< 
+{ [data not shown]
+100 65566  100    14  100 65552    909  4159k --:--:-- --:--:-- --:--:-- 4267k
+* Closing connection 0
+"Hello, Neha!"* Hostname was NOT found in DNS cache
+*   Trying 172.17.0.1...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 172.17.0.1 (172.17.0.1) port 8080 (#0)
+> POST /runLambda/hello HTTP/1.0
+> User-Agent: curl/7.35.0
+> Host: 172.17.0.1:8080
+> Accept: */*
+> Content-Length: 65552
+> Content-Type: application/x-www-form-urlencoded
+> 
+} [data not shown]
+* HTTP 1.0, assume close after body
+< HTTP/1.0 200 OK
+< Access-Control-Allow-Headers: Content-Type, Content-Range, Content-Disposition, Content-Description, X-Requested-With
+< Access-Control-Allow-Methods: GET, PUT, POST, DELETE, OPTIONS
+< Access-Control-Allow-Origin: *
+< Date: Thu, 27 Apr 2017 01:02:15 GMT
+< Content-Length: 14
+< Content-Type: text/plain; charset=utf-8
+< 
+{ [data not shown]
+100 65566  100    14  100 65552    955  4366k --:--:-- --:--:-- --:--:-- 4572k
+* Closing connection 0
+"Hello, Neha!"* Hostname was NOT found in DNS cache
+*   Trying 172.17.0.1...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 172.17.0.1 (172.17.0.1) port 8080 (#0)
+> POST /runLambda/hello HTTP/1.0
+> User-Agent: curl/7.35.0
+> Host: 172.17.0.1:8080
+> Accept: */*
+> Content-Length: 65552
+> Content-Type: application/x-www-form-urlencoded
+> 
+} [data not shown]
+* HTTP 1.0, assume close after body
+< HTTP/1.0 200 OK
+< Access-Control-Allow-Headers: Content-Type, Content-Range, Content-Disposition, Content-Description, X-Requested-With
+< Access-Control-Allow-Methods: GET, PUT, POST, DELETE, OPTIONS
+< Access-Control-Allow-Origin: *
+< Date: Thu, 27 Apr 2017 01:02:15 GMT
+< Content-Length: 14
+< Content-Type: text/plain; charset=utf-8
+< 
+{ [data not shown]
+100 65566  100    14  100 65552    713  3262k --:--:-- --:--:-- --:--:-- 3369k
+* Closing connection 0
+"Hello, Neha!"* Hostname was NOT found in DNS cache
+*   Trying 172.17.0.1...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 172.17.0.1 (172.17.0.1) port 8080 (#0)
+> POST /runLambda/hello HTTP/1.0
+> User-Agent: curl/7.35.0
+> Host: 172.17.0.1:8080
+> Accept: */*
+> Content-Length: 65552
+> Content-Type: application/x-www-form-urlencoded
+> 
+} [data not shown]
+* HTTP 1.0, assume close after body
+< HTTP/1.0 200 OK
+< Access-Control-Allow-Headers: Content-Type, Content-Range, Content-Disposition, Content-Description, X-Requested-With
+< Access-Control-Allow-Methods: GET, PUT, POST, DELETE, OPTIONS
+< Access-Control-Allow-Origin: *
+< Date: Thu, 27 Apr 2017 01:02:15 GMT
+< Content-Length: 14
+< Content-Type: text/plain; charset=utf-8
+< 
+{ [data not shown]
+100 65566  100    14  100 65552    963  4403k --:--:-- --:--:-- --:--:-- 4572k
+* Closing connection 0
+"Hello, Neha!"* Hostname was NOT found in DNS cache
+*   Trying 172.17.0.1...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 172.17.0.1 (172.17.0.1) port 8080 (#0)
+> POST /runLambda/hello HTTP/1.0
+> User-Agent: curl/7.35.0
+> Host: 172.17.0.1:8080
+> Accept: */*
+> Content-Length: 65552
+> Content-Type: application/x-www-form-urlencoded
+> 
+} [data not shown]
+* HTTP 1.0, assume close after body
+< HTTP/1.0 200 OK
+< Access-Control-Allow-Headers: Content-Type, Content-Range, Content-Disposition, Content-Description, X-Requested-With
+< Access-Control-Allow-Methods: GET, PUT, POST, DELETE, OPTIONS
+< Access-Control-Allow-Origin: *
+< Date: Thu, 27 Apr 2017 01:02:15 GMT
+< Content-Length: 14
+< Content-Type: text/plain; charset=utf-8
+< 
+{ [data not shown]
+100 65566  100    14  100 65552   1019  4660k --:--:-- --:--:-- --:--:-- 4924k
+* Closing connection 0
+"Hello, Neha!"* Hostname was NOT found in DNS cache
+*   Trying 172.17.0.1...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 172.17.0.1 (172.17.0.1) port 8080 (#0)
+> POST /runLambda/hello HTTP/1.0
+> User-Agent: curl/7.35.0
+> Host: 172.17.0.1:8080
+> Accept: */*
+> Content-Length: 65552
+> Content-Type: application/x-www-form-urlencoded
+> 
+} [data not shown]
+* HTTP 1.0, assume close after body
+< HTTP/1.0 200 OK
+< Access-Control-Allow-Headers: Content-Type, Content-Range, Content-Disposition, Content-Description, X-Requested-With
+< Access-Control-Allow-Methods: GET, PUT, POST, DELETE, OPTIONS
+< Access-Control-Allow-Origin: *
+< Date: Thu, 27 Apr 2017 01:02:15 GMT
+< Content-Length: 14
+< Content-Type: text/plain; charset=utf-8
+< 
+{ [data not shown]
+100 65566  100    14  100 65552   1043  4773k --:--:-- --:--:-- --:--:-- 4924k
+* Closing connection 0
+"Hello, Neha!"* Hostname was NOT found in DNS cache
+*   Trying 172.17.0.1...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 172.17.0.1 (172.17.0.1) port 8080 (#0)
+> POST /runLambda/hello HTTP/1.0
+> User-Agent: curl/7.35.0
+> Host: 172.17.0.1:8080
+> Accept: */*
+> Content-Length: 65552
+> Content-Type: application/x-www-form-urlencoded
+> 
+} [data not shown]
+* HTTP 1.0, assume close after body
+< HTTP/1.0 200 OK
+< Access-Control-Allow-Headers: Content-Type, Content-Range, Content-Disposition, Content-Description, X-Requested-With
+< Access-Control-Allow-Methods: GET, PUT, POST, DELETE, OPTIONS
+< Access-Control-Allow-Origin: *
+< Date: Thu, 27 Apr 2017 01:02:15 GMT
+< Content-Length: 14
+< Content-Type: text/plain; charset=utf-8
+< 
+{ [data not shown]
+100 65566  100    14  100 65552   1060  4850k --:--:-- --:--:-- --:--:-- 4924k
+* Closing connection 0
+"Hello, Neha!"* Hostname was NOT found in DNS cache
+*   Trying 172.17.0.1...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 172.17.0.1 (172.17.0.1) port 8080 (#0)
+> POST /runLambda/hello HTTP/1.0
+> User-Agent: curl/7.35.0
+> Host: 172.17.0.1:8080
+> Accept: */*
+> Content-Length: 65552
+> Content-Type: application/x-www-form-urlencoded
+> 
+} [data not shown]
+* HTTP 1.0, assume close after body
+< HTTP/1.0 200 OK
+< Access-Control-Allow-Headers: Content-Type, Content-Range, Content-Disposition, Content-Description, X-Requested-With
+< Access-Control-Allow-Methods: GET, PUT, POST, DELETE, OPTIONS
+< Access-Control-Allow-Origin: *
+< Date: Thu, 27 Apr 2017 01:02:15 GMT
+< Content-Length: 14
+< Content-Type: text/plain; charset=utf-8
+< 
+{ [data not shown]
+100 65566  100    14  100 65552   1066  4877k --:--:-- --:--:-- --:--:-- 5334k
+* Closing connection 0
+"Hello, Neha!"* Hostname was NOT found in DNS cache
+*   Trying 172.17.0.1...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 172.17.0.1 (172.17.0.1) port 8080 (#0)
+> POST /runLambda/hello HTTP/1.0
+> User-Agent: curl/7.35.0
+> Host: 172.17.0.1:8080
+> Accept: */*
+> Content-Length: 65552
+> Content-Type: application/x-www-form-urlencoded
+> 
+} [data not shown]
+* HTTP 1.0, assume close after body
+< HTTP/1.0 200 OK
+< Access-Control-Allow-Headers: Content-Type, Content-Range, Content-Disposition, Content-Description, X-Requested-With
+< Access-Control-Allow-Methods: GET, PUT, POST, DELETE, OPTIONS
+< Access-Control-Allow-Origin: *
+< Date: Thu, 27 Apr 2017 01:02:15 GMT
+< Content-Length: 14
+< Content-Type: text/plain; charset=utf-8
+< 
+{ [data not shown]
+100 65566  100    14  100 65552    963  4403k --:--:-- --:--:-- --:--:-- 4572k
+* Closing connection 0
+"Hello, Neha!"* Hostname was NOT found in DNS cache
+*   Trying 172.17.0.1...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 172.17.0.1 (172.17.0.1) port 8080 (#0)
+> POST /runLambda/hello HTTP/1.0
+> User-Agent: curl/7.35.0
+> Host: 172.17.0.1:8080
+> Accept: */*
+> Content-Length: 65552
+> Content-Type: application/x-www-form-urlencoded
+> 
+} [data not shown]
+* HTTP 1.0, assume close after body
+< HTTP/1.0 200 OK
+< Access-Control-Allow-Headers: Content-Type, Content-Range, Content-Disposition, Content-Description, X-Requested-With
+< Access-Control-Allow-Methods: GET, PUT, POST, DELETE, OPTIONS
+< Access-Control-Allow-Origin: *
+< Date: Thu, 27 Apr 2017 01:02:15 GMT
+< Content-Length: 14
+< Content-Type: text/plain; charset=utf-8
+< 
+{ [data not shown]
+100 65566  100    14  100 65552    988  4521k --:--:-- --:--:-- --:--:-- 4924k
+* Closing connection 0
+"Hello, Neha!"* Hostname was NOT found in DNS cache
+*   Trying 172.17.0.1...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 172.17.0.1 (172.17.0.1) port 8080 (#0)
+> POST /runLambda/hello HTTP/1.0
+> User-Agent: curl/7.35.0
+> Host: 172.17.0.1:8080
+> Accept: */*
+> Content-Length: 65552
+> Content-Type: application/x-www-form-urlencoded
+> 
+} [data not shown]
+* HTTP 1.0, assume close after body
+< HTTP/1.0 200 OK
+< Access-Control-Allow-Headers: Content-Type, Content-Range, Content-Disposition, Content-Description, X-Requested-With
+< Access-Control-Allow-Methods: GET, PUT, POST, DELETE, OPTIONS
+< Access-Control-Allow-Origin: *
+< Date: Thu, 27 Apr 2017 01:02:15 GMT
+< Content-Length: 14
+< Content-Type: text/plain; charset=utf-8
+< 
+{ [data not shown]
+100 65566  100    14  100 65552    734  3359k --:--:-- --:--:-- --:--:-- 3556k
+* Closing connection 0
+"Hello, Neha!"* Hostname was NOT found in DNS cache
+*   Trying 172.17.0.1...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 172.17.0.1 (172.17.0.1) port 8080 (#0)
+> POST /runLambda/hello HTTP/1.0
+> User-Agent: curl/7.35.0
+> Host: 172.17.0.1:8080
+> Accept: */*
+> Content-Length: 65552
+> Content-Type: application/x-www-form-urlencoded
+> 
+} [data not shown]
+* HTTP 1.0, assume close after body
+< HTTP/1.0 200 OK
+< Access-Control-Allow-Headers: Content-Type, Content-Range, Content-Disposition, Content-Description, X-Requested-With
+< Access-Control-Allow-Methods: GET, PUT, POST, DELETE, OPTIONS
+< Access-Control-Allow-Origin: *
+< Date: Thu, 27 Apr 2017 01:02:15 GMT
+< Content-Length: 14
+< Content-Type: text/plain; charset=utf-8
+< 
+{ [data not shown]
+100 65566  100    14  100 65552   1050  4804k --:--:-- --:--:-- --:--:-- 4924k
+* Closing connection 0
+"Hello, Neha!"* Hostname was NOT found in DNS cache
+*   Trying 172.17.0.1...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 172.17.0.1 (172.17.0.1) port 8080 (#0)
+> POST /runLambda/hello HTTP/1.0
+> User-Agent: curl/7.35.0
+> Host: 172.17.0.1:8080
+> Accept: */*
+> Content-Length: 65552
+> Content-Type: application/x-www-form-urlencoded
+> 
+} [data not shown]
+* HTTP 1.0, assume close after body
+< HTTP/1.0 200 OK
+< Access-Control-Allow-Headers: Content-Type, Content-Range, Content-Disposition, Content-Description, X-Requested-With
+< Access-Control-Allow-Methods: GET, PUT, POST, DELETE, OPTIONS
+< Access-Control-Allow-Origin: *
+< Date: Thu, 27 Apr 2017 01:02:15 GMT
+< Content-Length: 14
+< Content-Type: text/plain; charset=utf-8
+< 
+{ [data not shown]
+100 65566  100    14  100 65552   1053  4815k --:--:-- --:--:-- --:--:-- 4924k
+* Closing connection 0
+"Hello, Neha!"* Hostname was NOT found in DNS cache
+*   Trying 172.17.0.1...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 172.17.0.1 (172.17.0.1) port 8080 (#0)
+> POST /runLambda/hello HTTP/1.0
+> User-Agent: curl/7.35.0
+> Host: 172.17.0.1:8080
+> Accept: */*
+> Content-Length: 65552
+> Content-Type: application/x-www-form-urlencoded
+> 
+} [data not shown]
+* HTTP 1.0, assume close after body
+< HTTP/1.0 200 OK
+< Access-Control-Allow-Headers: Content-Type, Content-Range, Content-Disposition, Content-Description, X-Requested-With
+< Access-Control-Allow-Methods: GET, PUT, POST, DELETE, OPTIONS
+< Access-Control-Allow-Origin: *
+< Date: Thu, 27 Apr 2017 01:02:15 GMT
+< Content-Length: 14
+< Content-Type: text/plain; charset=utf-8
+< 
+{ [data not shown]
+100 65566  100    14  100 65552    957  4378k --:--:-- --:--:-- --:--:-- 4267k100 65566  100    14  100 65552    952  4355k --:--:-- --:--:-- --:--:-- 4267k
+* Closing connection 0
+"Hello, Neha!"* Hostname was NOT found in DNS cache
+*   Trying 172.17.0.1...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 172.17.0.1 (172.17.0.1) port 8080 (#0)
+> POST /runLambda/hello HTTP/1.0
+> User-Agent: curl/7.35.0
+> Host: 172.17.0.1:8080
+> Accept: */*
+> Content-Length: 65552
+> Content-Type: application/x-www-form-urlencoded
+> 
+} [data not shown]
+* HTTP 1.0, assume close after body
+< HTTP/1.0 200 OK
+< Access-Control-Allow-Headers: Content-Type, Content-Range, Content-Disposition, Content-Description, X-Requested-With
+< Access-Control-Allow-Methods: GET, PUT, POST, DELETE, OPTIONS
+< Access-Control-Allow-Origin: *
+< Date: Thu, 27 Apr 2017 01:02:15 GMT
+< Content-Length: 14
+< Content-Type: text/plain; charset=utf-8
+< 
+{ [data not shown]
+100 65566  100    14  100 65552    894  4089k --:--:-- --:--:-- --:--:-- 4267k
+* Closing connection 0
+"Hello, Neha!"* Hostname was NOT found in DNS cache
+*   Trying 172.17.0.1...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 172.17.0.1 (172.17.0.1) port 8080 (#0)
+> POST /runLambda/hello HTTP/1.0
+> User-Agent: curl/7.35.0
+> Host: 172.17.0.1:8080
+> Accept: */*
+> Content-Length: 65552
+> Content-Type: application/x-www-form-urlencoded
+> 
+} [data not shown]
+* HTTP 1.0, assume close after body
+< HTTP/1.0 200 OK
+< Access-Control-Allow-Headers: Content-Type, Content-Range, Content-Disposition, Content-Description, X-Requested-With
+< Access-Control-Allow-Methods: GET, PUT, POST, DELETE, OPTIONS
+< Access-Control-Allow-Origin: *
+< Date: Thu, 27 Apr 2017 01:02:16 GMT
+< Content-Length: 14
+< Content-Type: text/plain; charset=utf-8
+< 
+{ [data not shown]
+100 65566  100    14  100 65552    917  4196k --:--:-- --:--:-- --:--:-- 4267k
+* Closing connection 0
+"Hello, Neha!"* Hostname was NOT found in DNS cache
+*   Trying 172.17.0.1...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 172.17.0.1 (172.17.0.1) port 8080 (#0)
+> POST /runLambda/hello HTTP/1.0
+> User-Agent: curl/7.35.0
+> Host: 172.17.0.1:8080
+> Accept: */*
+> Content-Length: 65552
+> Content-Type: application/x-www-form-urlencoded
+> 
+} [data not shown]
+* HTTP 1.0, assume close after body
+< HTTP/1.0 200 OK
+< Access-Control-Allow-Headers: Content-Type, Content-Range, Content-Disposition, Content-Description, X-Requested-With
+< Access-Control-Allow-Methods: GET, PUT, POST, DELETE, OPTIONS
+< Access-Control-Allow-Origin: *
+< Date: Thu, 27 Apr 2017 01:02:16 GMT
+< Content-Length: 14
+< Content-Type: text/plain; charset=utf-8
+< 
+{ [data not shown]
+100 65566  100    14  100 65552    935  4277k --:--:-- --:--:-- --:--:-- 4572k
+* Closing connection 0
+"Hello, Neha!"* Hostname was NOT found in DNS cache
+*   Trying 172.17.0.1...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 172.17.0.1 (172.17.0.1) port 8080 (#0)
+> POST /runLambda/hello HTTP/1.0
+> User-Agent: curl/7.35.0
+> Host: 172.17.0.1:8080
+> Accept: */*
+> Content-Length: 65552
+> Content-Type: application/x-www-form-urlencoded
+> 
+} [data not shown]
+* HTTP 1.0, assume close after body
+< HTTP/1.0 200 OK
+< Access-Control-Allow-Headers: Content-Type, Content-Range, Content-Disposition, Content-Description, X-Requested-With
+< Access-Control-Allow-Methods: GET, PUT, POST, DELETE, OPTIONS
+< Access-Control-Allow-Origin: *
+< Date: Thu, 27 Apr 2017 01:02:16 GMT
+< Content-Length: 14
+< Content-Type: text/plain; charset=utf-8
+< 
+{ [data not shown]
+100 65566  100    14  100 65552   1026  4694k --:--:-- --:--:-- --:--:-- 4924k
+* Closing connection 0
+"Hello, Neha!"* Hostname was NOT found in DNS cache
+*   Trying 172.17.0.1...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 172.17.0.1 (172.17.0.1) port 8080 (#0)
+> POST /runLambda/hello HTTP/1.0
+> User-Agent: curl/7.35.0
+> Host: 172.17.0.1:8080
+> Accept: */*
+> Content-Length: 65552
+> Content-Type: application/x-www-form-urlencoded
+> 
+} [data not shown]
+* HTTP 1.0, assume close after body
+< HTTP/1.0 200 OK
+< Access-Control-Allow-Headers: Content-Type, Content-Range, Content-Disposition, Content-Description, X-Requested-With
+< Access-Control-Allow-Methods: GET, PUT, POST, DELETE, OPTIONS
+< Access-Control-Allow-Origin: *
+< Date: Thu, 27 Apr 2017 01:02:16 GMT
+< Content-Length: 14
+< Content-Type: text/plain; charset=utf-8
+< 
+{ [data not shown]
+100 65566  100    14  100 65552    676  3091k --:--:-- --:--:-- --:--:-- 3200k
+* Closing connection 0
+"Hello, Neha!"* Hostname was NOT found in DNS cache
+*   Trying 172.17.0.1...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 172.17.0.1 (172.17.0.1) port 8080 (#0)
+> POST /runLambda/hello HTTP/1.0
+> User-Agent: curl/7.35.0
+> Host: 172.17.0.1:8080
+> Accept: */*
+> Content-Length: 65552
+> Content-Type: application/x-www-form-urlencoded
+> 
+} [data not shown]
+* HTTP 1.0, assume close after body
+< HTTP/1.0 200 OK
+< Access-Control-Allow-Headers: Content-Type, Content-Range, Content-Disposition, Content-Description, X-Requested-With
+< Access-Control-Allow-Methods: GET, PUT, POST, DELETE, OPTIONS
+< Access-Control-Allow-Origin: *
+< Date: Thu, 27 Apr 2017 01:02:16 GMT
+< Content-Length: 14
+< Content-Type: text/plain; charset=utf-8
+< 
+{ [data not shown]
+100 65566  100    14  100 65552    967  4425k --:--:-- --:--:-- --:--:-- 4572k
+* Closing connection 0
+"Hello, Neha!"* Hostname was NOT found in DNS cache
+*   Trying 172.17.0.1...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 172.17.0.1 (172.17.0.1) port 8080 (#0)
+> POST /runLambda/hello HTTP/1.0
+> User-Agent: curl/7.35.0
+> Host: 172.17.0.1:8080
+> Accept: */*
+> Content-Length: 65552
+> Content-Type: application/x-www-form-urlencoded
+> 
+} [data not shown]
+* HTTP 1.0, assume close after body
+< HTTP/1.0 200 OK
+< Access-Control-Allow-Headers: Content-Type, Content-Range, Content-Disposition, Content-Description, X-Requested-With
+< Access-Control-Allow-Methods: GET, PUT, POST, DELETE, OPTIONS
+< Access-Control-Allow-Origin: *
+< Date: Thu, 27 Apr 2017 01:02:16 GMT
+< Content-Length: 14
+< Content-Type: text/plain; charset=utf-8
+< 
+{ [data not shown]
+100 65566  100    14  100 65552   1019  4662k --:--:-- --:--:-- --:--:-- 4924k
+* Closing connection 0
+"Hello, Neha!"* Hostname was NOT found in DNS cache
+*   Trying 172.17.0.1...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 172.17.0.1 (172.17.0.1) port 8080 (#0)
+> POST /runLambda/hello HTTP/1.0
+> User-Agent: curl/7.35.0
+> Host: 172.17.0.1:8080
+> Accept: */*
+> Content-Length: 65552
+> Content-Type: application/x-www-form-urlencoded
+> 
+} [data not shown]
+* HTTP 1.0, assume close after body
+< HTTP/1.0 200 OK
+< Access-Control-Allow-Headers: Content-Type, Content-Range, Content-Disposition, Content-Description, X-Requested-With
+< Access-Control-Allow-Methods: GET, PUT, POST, DELETE, OPTIONS
+< Access-Control-Allow-Origin: *
+< Date: Thu, 27 Apr 2017 01:02:16 GMT
+< Content-Length: 14
+< Content-Type: text/plain; charset=utf-8
+< 
+{ [data not shown]
+100 65566  100    14  100 65552    955  4366k --:--:-- --:--:-- --:--:-- 4572k
+* Closing connection 0
+"Hello, Neha!"* Hostname was NOT found in DNS cache
+*   Trying 172.17.0.1...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 172.17.0.1 (172.17.0.1) port 8080 (#0)
+> POST /runLambda/hello HTTP/1.0
+> User-Agent: curl/7.35.0
+> Host: 172.17.0.1:8080
+> Accept: */*
+> Content-Length: 65552
+> Content-Type: application/x-www-form-urlencoded
+> 
+} [data not shown]
+* HTTP 1.0, assume close after body
+< HTTP/1.0 200 OK
+< Access-Control-Allow-Headers: Content-Type, Content-Range, Content-Disposition, Content-Description, X-Requested-With
+< Access-Control-Allow-Methods: GET, PUT, POST, DELETE, OPTIONS
+< Access-Control-Allow-Origin: *
+< Date: Thu, 27 Apr 2017 01:02:16 GMT
+< Content-Length: 14
+< Content-Type: text/plain; charset=utf-8
+< 
+{ [data not shown]
+100 65566  100    14  100 65552    953  4361k --:--:-- --:--:-- --:--:-- 4572k
+* Closing connection 0
+"Hello, Neha!"* Hostname was NOT found in DNS cache
+*   Trying 172.17.0.1...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 172.17.0.1 (172.17.0.1) port 8080 (#0)
+> POST /runLambda/hello HTTP/1.0
+> User-Agent: curl/7.35.0
+> Host: 172.17.0.1:8080
+> Accept: */*
+> Content-Length: 65552
+> Content-Type: application/x-www-form-urlencoded
+> 
+} [data not shown]
+* HTTP 1.0, assume close after body
+< HTTP/1.0 200 OK
+< Access-Control-Allow-Headers: Content-Type, Content-Range, Content-Disposition, Content-Description, X-Requested-With
+< Access-Control-Allow-Methods: GET, PUT, POST, DELETE, OPTIONS
+< Access-Control-Allow-Origin: *
+< Date: Thu, 27 Apr 2017 01:02:16 GMT
+< Content-Length: 14
+< Content-Type: text/plain; charset=utf-8
+< 
+{ [data not shown]
+100 65566  100    14  100 65552   1019  4660k --:--:-- --:--:-- --:--:-- 4924k
+* Closing connection 0
+"Hello, Neha!"* Hostname was NOT found in DNS cache
+*   Trying 172.17.0.1...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 172.17.0.1 (172.17.0.1) port 8080 (#0)
+> POST /runLambda/hello HTTP/1.0
+> User-Agent: curl/7.35.0
+> Host: 172.17.0.1:8080
+> Accept: */*
+> Content-Length: 65552
+> Content-Type: application/x-www-form-urlencoded
+> 
+} [data not shown]
+* HTTP 1.0, assume close after body
+< HTTP/1.0 200 OK
+< Access-Control-Allow-Headers: Content-Type, Content-Range, Content-Disposition, Content-Description, X-Requested-With
+< Access-Control-Allow-Methods: GET, PUT, POST, DELETE, OPTIONS
+< Access-Control-Allow-Origin: *
+< Date: Thu, 27 Apr 2017 01:02:16 GMT
+< Content-Length: 14
+< Content-Type: text/plain; charset=utf-8
+< 
+{ [data not shown]
+100 65566  100    14  100 65552   1044  4775k --:--:-- --:--:-- --:--:-- 4924k
+* Closing connection 0
+"Hello, Neha!"* Hostname was NOT found in DNS cache
+*   Trying 172.17.0.1...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 172.17.0.1 (172.17.0.1) port 8080 (#0)
+> POST /runLambda/hello HTTP/1.0
+> User-Agent: curl/7.35.0
+> Host: 172.17.0.1:8080
+> Accept: */*
+> Content-Length: 65552
+> Content-Type: application/x-www-form-urlencoded
+> 
+} [data not shown]
+* HTTP 1.0, assume close after body
+< HTTP/1.0 200 OK
+< Access-Control-Allow-Headers: Content-Type, Content-Range, Content-Disposition, Content-Description, X-Requested-With
+< Access-Control-Allow-Methods: GET, PUT, POST, DELETE, OPTIONS
+< Access-Control-Allow-Origin: *
+< Date: Thu, 27 Apr 2017 01:02:16 GMT
+< Content-Length: 14
+< Content-Type: text/plain; charset=utf-8
+< 
+{ [data not shown]
+100 65566  100    14  100 65552   1020  4667k --:--:-- --:--:-- --:--:-- 4924k
+* Closing connection 0
+"Hello, Neha!"* Hostname was NOT found in DNS cache
+*   Trying 172.17.0.1...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 172.17.0.1 (172.17.0.1) port 8080 (#0)
+> POST /runLambda/hello HTTP/1.0
+> User-Agent: curl/7.35.0
+> Host: 172.17.0.1:8080
+> Accept: */*
+> Content-Length: 65552
+> Content-Type: application/x-www-form-urlencoded
+> 
+} [data not shown]
+* HTTP 1.0, assume close after body
+< HTTP/1.0 200 OK
+< Access-Control-Allow-Headers: Content-Type, Content-Range, Content-Disposition, Content-Description, X-Requested-With
+< Access-Control-Allow-Methods: GET, PUT, POST, DELETE, OPTIONS
+< Access-Control-Allow-Origin: *
+< Date: Thu, 27 Apr 2017 01:02:16 GMT
+< Content-Length: 14
+< Content-Type: text/plain; charset=utf-8
+< 
+{ [data not shown]
+100 65566  100    14  100 65552   1047  4788k --:--:-- --:--:-- --:--:-- 4924k
+* Closing connection 0
+"Hello, Neha!"* Hostname was NOT found in DNS cache
+*   Trying 172.17.0.1...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 172.17.0.1 (172.17.0.1) port 8080 (#0)
+> POST /runLambda/hello HTTP/1.0
+> User-Agent: curl/7.35.0
+> Host: 172.17.0.1:8080
+> Accept: */*
+> Content-Length: 65552
+> Content-Type: application/x-www-form-urlencoded
+> 
+} [data not shown]
+* HTTP 1.0, assume close after body
+< HTTP/1.0 200 OK
+< Access-Control-Allow-Headers: Content-Type, Content-Range, Content-Disposition, Content-Description, X-Requested-With
+< Access-Control-Allow-Methods: GET, PUT, POST, DELETE, OPTIONS
+< Access-Control-Allow-Origin: *
+< Date: Thu, 27 Apr 2017 01:02:16 GMT
+< Content-Length: 14
+< Content-Type: text/plain; charset=utf-8
+< 
+{ [data not shown]
+100 65566  100    14  100 65552    679  3105k --:--:-- --:--:-- --:--:-- 3200k
+* Closing connection 0
+"Hello, Neha!"* Hostname was NOT found in DNS cache
+*   Trying 172.17.0.1...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 172.17.0.1 (172.17.0.1) port 8080 (#0)
+> POST /runLambda/hello HTTP/1.0
+> User-Agent: curl/7.35.0
+> Host: 172.17.0.1:8080
+> Accept: */*
+> Content-Length: 65552
+> Content-Type: application/x-www-form-urlencoded
+> 
+} [data not shown]
+* HTTP 1.0, assume close after body
+< HTTP/1.0 200 OK
+< Access-Control-Allow-Headers: Content-Type, Content-Range, Content-Disposition, Content-Description, X-Requested-With
+< Access-Control-Allow-Methods: GET, PUT, POST, DELETE, OPTIONS
+< Access-Control-Allow-Origin: *
+< Date: Thu, 27 Apr 2017 01:02:16 GMT
+< Content-Length: 14
+< Content-Type: text/plain; charset=utf-8
+< 
+{ [data not shown]
+100 65566  100    14  100 65552    872  3991k --:--:-- --:--:-- --:--:-- 4267k
+* Closing connection 0
+"Hello, Neha!"* Hostname was NOT found in DNS cache
+*   Trying 172.17.0.1...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 172.17.0.1 (172.17.0.1) port 8080 (#0)
+> POST /runLambda/hello HTTP/1.0
+> User-Agent: curl/7.35.0
+> Host: 172.17.0.1:8080
+> Accept: */*
+> Content-Length: 65552
+> Content-Type: application/x-www-form-urlencoded
+> 
+} [data not shown]
+* HTTP 1.0, assume close after body
+< HTTP/1.0 200 OK
+< Access-Control-Allow-Headers: Content-Type, Content-Range, Content-Disposition, Content-Description, X-Requested-With
+< Access-Control-Allow-Methods: GET, PUT, POST, DELETE, OPTIONS
+< Access-Control-Allow-Origin: *
+< Date: Thu, 27 Apr 2017 01:02:16 GMT
+< Content-Length: 14
+< Content-Type: text/plain; charset=utf-8
+< 
+{ [data not shown]
+100 65566  100    14  100 65552    922  4217k --:--:-- --:--:-- --:--:-- 4572k
+* Closing connection 0
+"Hello, Neha!"* Hostname was NOT found in DNS cache
+*   Trying 172.17.0.1...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 172.17.0.1 (172.17.0.1) port 8080 (#0)
+> POST /runLambda/hello HTTP/1.0
+> User-Agent: curl/7.35.0
+> Host: 172.17.0.1:8080
+> Accept: */*
+> Content-Length: 65552
+> Content-Type: application/x-www-form-urlencoded
+> 
+} [data not shown]
+* HTTP 1.0, assume close after body
+< HTTP/1.0 200 OK
+< Access-Control-Allow-Headers: Content-Type, Content-Range, Content-Disposition, Content-Description, X-Requested-With
+< Access-Control-Allow-Methods: GET, PUT, POST, DELETE, OPTIONS
+< Access-Control-Allow-Origin: *
+< Date: Thu, 27 Apr 2017 01:02:16 GMT
+< Content-Length: 14
+< Content-Type: text/plain; charset=utf-8
+< 
+{ [data not shown]
+100 65566  100    14  100 65552    954  4364k --:--:-- --:--:-- --:--:-- 4572k
+* Closing connection 0
+"Hello, Neha!"* Hostname was NOT found in DNS cache
+*   Trying 172.17.0.1...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 172.17.0.1 (172.17.0.1) port 8080 (#0)
+> POST /runLambda/hello HTTP/1.0
+> User-Agent: curl/7.35.0
+> Host: 172.17.0.1:8080
+> Accept: */*
+> Content-Length: 65552
+> Content-Type: application/x-www-form-urlencoded
+> 
+} [data not shown]
+* HTTP 1.0, assume close after body
+< HTTP/1.0 200 OK
+< Access-Control-Allow-Headers: Content-Type, Content-Range, Content-Disposition, Content-Description, X-Requested-With
+< Access-Control-Allow-Methods: GET, PUT, POST, DELETE, OPTIONS
+< Access-Control-Allow-Origin: *
+< Date: Thu, 27 Apr 2017 01:02:16 GMT
+< Content-Length: 14
+< Content-Type: text/plain; charset=utf-8
+< 
+{ [data not shown]
+100 65566  100    14  100 65552   1044  4774k --:--:-- --:--:-- --:--:-- 4924k
+* Closing connection 0
+"Hello, Neha!"* Hostname was NOT found in DNS cache
+*   Trying 172.17.0.1...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 172.17.0.1 (172.17.0.1) port 8080 (#0)
+> POST /runLambda/hello HTTP/1.0
+> User-Agent: curl/7.35.0
+> Host: 172.17.0.1:8080
+> Accept: */*
+> Content-Length: 65552
+> Content-Type: application/x-www-form-urlencoded
+> 
+} [data not shown]
+* HTTP 1.0, assume close after body
+< HTTP/1.0 200 OK
+< Access-Control-Allow-Headers: Content-Type, Content-Range, Content-Disposition, Content-Description, X-Requested-With
+< Access-Control-Allow-Methods: GET, PUT, POST, DELETE, OPTIONS
+< Access-Control-Allow-Origin: *
+< Date: Thu, 27 Apr 2017 01:02:16 GMT
+< Content-Length: 14
+< Content-Type: text/plain; charset=utf-8
+< 
+{ [data not shown]
+100 65566  100    14  100 65552   1080  4941k --:--:-- --:--:-- --:--:-- 5334k
+* Closing connection 0
+"Hello, Neha!"* Hostname was NOT found in DNS cache
+*   Trying 172.17.0.1...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 172.17.0.1 (172.17.0.1) port 8080 (#0)
+> POST /runLambda/hello HTTP/1.0
+> User-Agent: curl/7.35.0
+> Host: 172.17.0.1:8080
+> Accept: */*
+> Content-Length: 65552
+> Content-Type: application/x-www-form-urlencoded
+> 
+} [data not shown]
+* HTTP 1.0, assume close after body
+< HTTP/1.0 200 OK
+< Access-Control-Allow-Headers: Content-Type, Content-Range, Content-Disposition, Content-Description, X-Requested-With
+< Access-Control-Allow-Methods: GET, PUT, POST, DELETE, OPTIONS
+< Access-Control-Allow-Origin: *
+< Date: Thu, 27 Apr 2017 01:02:16 GMT
+< Content-Length: 14
+< Content-Type: text/plain; charset=utf-8
+< 
+{ [data not shown]
+100 65566  100    14  100 65552   1071  4900k --:--:-- --:--:-- --:--:-- 5334k
+* Closing connection 0
+"Hello, Neha!"* Hostname was NOT found in DNS cache
+*   Trying 172.17.0.1...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 172.17.0.1 (172.17.0.1) port 8080 (#0)
+> POST /runLambda/hello HTTP/1.0
+> User-Agent: curl/7.35.0
+> Host: 172.17.0.1:8080
+> Accept: */*
+> Content-Length: 65552
+> Content-Type: application/x-www-form-urlencoded
+> 
+} [data not shown]
+* HTTP 1.0, assume close after body
+< HTTP/1.0 200 OK
+< Access-Control-Allow-Headers: Content-Type, Content-Range, Content-Disposition, Content-Description, X-Requested-With
+< Access-Control-Allow-Methods: GET, PUT, POST, DELETE, OPTIONS
+< Access-Control-Allow-Origin: *
+< Date: Thu, 27 Apr 2017 01:02:16 GMT
+< Content-Length: 14
+< Content-Type: text/plain; charset=utf-8
+< 
+{ [data not shown]
+100 65566  100    14  100 65552   1076  4920k --:--:-- --:--:-- --:--:-- 5334k
+* Closing connection 0
+"Hello, Neha!"* Hostname was NOT found in DNS cache
+*   Trying 172.17.0.1...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 172.17.0.1 (172.17.0.1) port 8080 (#0)
+> POST /runLambda/hello HTTP/1.0
+> User-Agent: curl/7.35.0
+> Host: 172.17.0.1:8080
+> Accept: */*
+> Content-Length: 65552
+> Content-Type: application/x-www-form-urlencoded
+> 
+} [data not shown]
+* HTTP 1.0, assume close after body
+< HTTP/1.0 200 OK
+< Access-Control-Allow-Headers: Content-Type, Content-Range, Content-Disposition, Content-Description, X-Requested-With
+< Access-Control-Allow-Methods: GET, PUT, POST, DELETE, OPTIONS
+< Access-Control-Allow-Origin: *
+< Date: Thu, 27 Apr 2017 01:02:16 GMT
+< Content-Length: 14
+< Content-Type: text/plain; charset=utf-8
+< 
+{ [data not shown]
+100 65566  100    14  100 65552   1070  4896k --:--:-- --:--:-- --:--:-- 5334k
+* Closing connection 0
+"Hello, Neha!"* Hostname was NOT found in DNS cache
+*   Trying 172.17.0.1...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 172.17.0.1 (172.17.0.1) port 8080 (#0)
+> POST /runLambda/hello HTTP/1.0
+> User-Agent: curl/7.35.0
+> Host: 172.17.0.1:8080
+> Accept: */*
+> Content-Length: 65552
+> Content-Type: application/x-www-form-urlencoded
+> 
+} [data not shown]
+* HTTP 1.0, assume close after body
+< HTTP/1.0 200 OK
+< Access-Control-Allow-Headers: Content-Type, Content-Range, Content-Disposition, Content-Description, X-Requested-With
+< Access-Control-Allow-Methods: GET, PUT, POST, DELETE, OPTIONS
+< Access-Control-Allow-Origin: *
+< Date: Thu, 27 Apr 2017 01:02:16 GMT
+< Content-Length: 14
+< Content-Type: text/plain; charset=utf-8
+< 
+{ [data not shown]
+100 65566  100    14  100 65552    703  3218k --:--:-- --:--:-- --:--:-- 3369k
+* Closing connection 0
+"Hello, Neha!"* Hostname was NOT found in DNS cache
+*   Trying 172.17.0.1...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 172.17.0.1 (172.17.0.1) port 8080 (#0)
+> POST /runLambda/hello HTTP/1.0
+> User-Agent: curl/7.35.0
+> Host: 172.17.0.1:8080
+> Accept: */*
+> Content-Length: 65552
+> Content-Type: application/x-www-form-urlencoded
+> 
+} [data not shown]
+* HTTP 1.0, assume close after body
+< HTTP/1.0 200 OK
+< Access-Control-Allow-Headers: Content-Type, Content-Range, Content-Disposition, Content-Description, X-Requested-With
+< Access-Control-Allow-Methods: GET, PUT, POST, DELETE, OPTIONS
+< Access-Control-Allow-Origin: *
+< Date: Thu, 27 Apr 2017 01:02:16 GMT
+< Content-Length: 14
+< Content-Type: text/plain; charset=utf-8
+< 
+{ [data not shown]
+100 65566  100    14  100 65552    962  4401k --:--:-- --:--:-- --:--:-- 4572k
+* Closing connection 0
+"Hello, Neha!"* Hostname was NOT found in DNS cache
+*   Trying 172.17.0.1...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 172.17.0.1 (172.17.0.1) port 8080 (#0)
+> POST /runLambda/hello HTTP/1.0
+> User-Agent: curl/7.35.0
+> Host: 172.17.0.1:8080
+> Accept: */*
+> Content-Length: 65552
+> Content-Type: application/x-www-form-urlencoded
+> 
+} [data not shown]
+* HTTP 1.0, assume close after body
+< HTTP/1.0 200 OK
+< Access-Control-Allow-Headers: Content-Type, Content-Range, Content-Disposition, Content-Description, X-Requested-With
+< Access-Control-Allow-Methods: GET, PUT, POST, DELETE, OPTIONS
+< Access-Control-Allow-Origin: *
+< Date: Thu, 27 Apr 2017 01:02:16 GMT
+< Content-Length: 14
+< Content-Type: text/plain; charset=utf-8
+< 
+{ [data not shown]
+100 65566  100    14  100 65552   1011  4626k --:--:-- --:--:-- --:--:-- 4924k
+* Closing connection 0
+"Hello, Neha!"* Hostname was NOT found in DNS cache
+*   Trying 172.17.0.1...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 172.17.0.1 (172.17.0.1) port 8080 (#0)
+> POST /runLambda/hello HTTP/1.0
+> User-Agent: curl/7.35.0
+> Host: 172.17.0.1:8080
+> Accept: */*
+> Content-Length: 65552
+> Content-Type: application/x-www-form-urlencoded
+> 
+} [data not shown]
+* HTTP 1.0, assume close after body
+< HTTP/1.0 200 OK
+< Access-Control-Allow-Headers: Content-Type, Content-Range, Content-Disposition, Content-Description, X-Requested-With
+< Access-Control-Allow-Methods: GET, PUT, POST, DELETE, OPTIONS
+< Access-Control-Allow-Origin: *
+< Date: Thu, 27 Apr 2017 01:02:16 GMT
+< Content-Length: 14
+< Content-Type: text/plain; charset=utf-8
+< 
+{ [data not shown]
+100 65566  100    14  100 65552    997  4560k --:--:-- --:--:-- --:--:-- 4924k
+* Closing connection 0
+"Hello, Neha!"* Hostname was NOT found in DNS cache
+*   Trying 172.17.0.1...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 172.17.0.1 (172.17.0.1) port 8080 (#0)
+> POST /runLambda/hello HTTP/1.0
+> User-Agent: curl/7.35.0
+> Host: 172.17.0.1:8080
+> Accept: */*
+> Content-Length: 65552
+> Content-Type: application/x-www-form-urlencoded
+> 
+} [data not shown]
+* HTTP 1.0, assume close after body
+< HTTP/1.0 200 OK
+< Access-Control-Allow-Headers: Content-Type, Content-Range, Content-Disposition, Content-Description, X-Requested-With
+< Access-Control-Allow-Methods: GET, PUT, POST, DELETE, OPTIONS
+< Access-Control-Allow-Origin: *
+< Date: Thu, 27 Apr 2017 01:02:16 GMT
+< Content-Length: 14
+< Content-Type: text/plain; charset=utf-8
+< 
+{ [data not shown]
+100 65566  100    14  100 65552   1043  4770k --:--:-- --:--:-- --:--:-- 4924k
+* Closing connection 0
+"Hello, Neha!"* Hostname was NOT found in DNS cache
+*   Trying 172.17.0.1...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 172.17.0.1 (172.17.0.1) port 8080 (#0)
+> POST /runLambda/hello HTTP/1.0
+> User-Agent: curl/7.35.0
+> Host: 172.17.0.1:8080
+> Accept: */*
+> Content-Length: 65552
+> Content-Type: application/x-www-form-urlencoded
+> 
+} [data not shown]
+* HTTP 1.0, assume close after body
+< HTTP/1.0 200 OK
+< Access-Control-Allow-Headers: Content-Type, Content-Range, Content-Disposition, Content-Description, X-Requested-With
+< Access-Control-Allow-Methods: GET, PUT, POST, DELETE, OPTIONS
+< Access-Control-Allow-Origin: *
+< Date: Thu, 27 Apr 2017 01:02:16 GMT
+< Content-Length: 14
+< Content-Type: text/plain; charset=utf-8
+< 
+{ [data not shown]
+100 65566  100    14  100 65552   1010  4621k --:--:-- --:--:-- --:--:-- 4924k
+* Closing connection 0
+"Hello, Neha!"* Hostname was NOT found in DNS cache
+*   Trying 172.17.0.1...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 172.17.0.1 (172.17.0.1) port 8080 (#0)
+> POST /runLambda/hello HTTP/1.0
+> User-Agent: curl/7.35.0
+> Host: 172.17.0.1:8080
+> Accept: */*
+> Content-Length: 65552
+> Content-Type: application/x-www-form-urlencoded
+> 
+} [data not shown]
+* HTTP 1.0, assume close after body
+< HTTP/1.0 200 OK
+< Access-Control-Allow-Headers: Content-Type, Content-Range, Content-Disposition, Content-Description, X-Requested-With
+< Access-Control-Allow-Methods: GET, PUT, POST, DELETE, OPTIONS
+< Access-Control-Allow-Origin: *
+< Date: Thu, 27 Apr 2017 01:02:16 GMT
+< Content-Length: 14
+< Content-Type: text/plain; charset=utf-8
+< 
+{ [data not shown]
+100 65566  100    14  100 65552    913  4178k --:--:-- --:--:-- --:--:-- 4267k
+* Closing connection 0
+"Hello, Neha!"* Hostname was NOT found in DNS cache
+*   Trying 172.17.0.1...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 172.17.0.1 (172.17.0.1) port 8080 (#0)
+> POST /runLambda/hello HTTP/1.0
+> User-Agent: curl/7.35.0
+> Host: 172.17.0.1:8080
+> Accept: */*
+> Content-Length: 65552
+> Content-Type: application/x-www-form-urlencoded
+> 
+} [data not shown]
+* HTTP 1.0, assume close after body
+< HTTP/1.0 200 OK
+< Access-Control-Allow-Headers: Content-Type, Content-Range, Content-Disposition, Content-Description, X-Requested-With
+< Access-Control-Allow-Methods: GET, PUT, POST, DELETE, OPTIONS
+< Access-Control-Allow-Origin: *
+< Date: Thu, 27 Apr 2017 01:02:16 GMT
+< Content-Length: 14
+< Content-Type: text/plain; charset=utf-8
+< 
+{ [data not shown]
+100 65566  100    14  100 65552    928  4247k --:--:-- --:--:-- --:--:-- 4572k
+* Closing connection 0
+"Hello, Neha!"* Hostname was NOT found in DNS cache
+*   Trying 172.17.0.1...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 172.17.0.1 (172.17.0.1) port 8080 (#0)
+> POST /runLambda/hello HTTP/1.0
+> User-Agent: curl/7.35.0
+> Host: 172.17.0.1:8080
+> Accept: */*
+> Content-Length: 65552
+> Content-Type: application/x-www-form-urlencoded
+> 
+} [data not shown]
+* HTTP 1.0, assume close after body
+< HTTP/1.0 200 OK
+< Access-Control-Allow-Headers: Content-Type, Content-Range, Content-Disposition, Content-Description, X-Requested-With
+< Access-Control-Allow-Methods: GET, PUT, POST, DELETE, OPTIONS
+< Access-Control-Allow-Origin: *
+< Date: Thu, 27 Apr 2017 01:02:16 GMT
+< Content-Length: 14
+< Content-Type: text/plain; charset=utf-8
+< 
+{ [data not shown]
+100 65566  100    14  100 65552    975  4459k --:--:-- --:--:-- --:--:-- 4572k
+* Closing connection 0
+"Hello, Neha!"* Hostname was NOT found in DNS cache
+*   Trying 172.17.0.1...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 172.17.0.1 (172.17.0.1) port 8080 (#0)
+> POST /runLambda/hello HTTP/1.0
+> User-Agent: curl/7.35.0
+> Host: 172.17.0.1:8080
+> Accept: */*
+> Content-Length: 65552
+> Content-Type: application/x-www-form-urlencoded
+> 
+} [data not shown]
+* HTTP 1.0, assume close after body
+< HTTP/1.0 200 OK
+< Access-Control-Allow-Headers: Content-Type, Content-Range, Content-Disposition, Content-Description, X-Requested-With
+< Access-Control-Allow-Methods: GET, PUT, POST, DELETE, OPTIONS
+< Access-Control-Allow-Origin: *
+< Date: Thu, 27 Apr 2017 01:02:16 GMT
+< Content-Length: 14
+< Content-Type: text/plain; charset=utf-8
+< 
+{ [data not shown]
+100 65566  100    14  100 65552    990  4530k --:--:-- --:--:-- --:--:-- 4924k
+* Closing connection 0
+"Hello, Neha!"* Hostname was NOT found in DNS cache
+*   Trying 172.17.0.1...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 172.17.0.1 (172.17.0.1) port 8080 (#0)
+> POST /runLambda/hello HTTP/1.0
+> User-Agent: curl/7.35.0
+> Host: 172.17.0.1:8080
+> Accept: */*
+> Content-Length: 65552
+> Content-Type: application/x-www-form-urlencoded
+> 
+} [data not shown]
+* HTTP 1.0, assume close after body
+< HTTP/1.0 200 OK
+< Access-Control-Allow-Headers: Content-Type, Content-Range, Content-Disposition, Content-Description, X-Requested-With
+< Access-Control-Allow-Methods: GET, PUT, POST, DELETE, OPTIONS
+< Access-Control-Allow-Origin: *
+< Date: Thu, 27 Apr 2017 01:02:16 GMT
+< Content-Length: 14
+< Content-Type: text/plain; charset=utf-8
+< 
+{ [data not shown]
+100 65566  100    14  100 65552    699  3199k --:--:-- --:--:-- --:--:-- 4000k
+* Closing connection 0
+"Hello, Neha!"* Hostname was NOT found in DNS cache
+*   Trying 172.17.0.1...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 172.17.0.1 (172.17.0.1) port 8080 (#0)
+> POST /runLambda/hello HTTP/1.0
+> User-Agent: curl/7.35.0
+> Host: 172.17.0.1:8080
+> Accept: */*
+> Content-Length: 65552
+> Content-Type: application/x-www-form-urlencoded
+> 
+} [data not shown]
+* HTTP 1.0, assume close after body
+< HTTP/1.0 200 OK
+< Access-Control-Allow-Headers: Content-Type, Content-Range, Content-Disposition, Content-Description, X-Requested-With
+< Access-Control-Allow-Methods: GET, PUT, POST, DELETE, OPTIONS
+< Access-Control-Allow-Origin: *
+< Date: Thu, 27 Apr 2017 01:02:16 GMT
+< Content-Length: 14
+< Content-Type: text/plain; charset=utf-8
+< 
+{ [data not shown]
+100 65566  100    14  100 65552   1065  4870k --:--:-- --:--:-- --:--:-- 5334k
+* Closing connection 0
+"Hello, Neha!"* Hostname was NOT found in DNS cache
+*   Trying 172.17.0.1...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 172.17.0.1 (172.17.0.1) port 8080 (#0)
+> POST /runLambda/hello HTTP/1.0
+> User-Agent: curl/7.35.0
+> Host: 172.17.0.1:8080
+> Accept: */*
+> Content-Length: 65552
+> Content-Type: application/x-www-form-urlencoded
+> 
+} [data not shown]
+* HTTP 1.0, assume close after body
+< HTTP/1.0 200 OK
+< Access-Control-Allow-Headers: Content-Type, Content-Range, Content-Disposition, Content-Description, X-Requested-With
+< Access-Control-Allow-Methods: GET, PUT, POST, DELETE, OPTIONS
+< Access-Control-Allow-Origin: *
+< Date: Thu, 27 Apr 2017 01:02:16 GMT
+< Content-Length: 14
+< Content-Type: text/plain; charset=utf-8
+< 
+{ [data not shown]
+100 65566  100    14  100 65552   1025  4688k --:--:-- --:--:-- --:--:-- 4924k
+* Closing connection 0
+"Hello, Neha!"* Hostname was NOT found in DNS cache
+*   Trying 172.17.0.1...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 172.17.0.1 (172.17.0.1) port 8080 (#0)
+> POST /runLambda/hello HTTP/1.0
+> User-Agent: curl/7.35.0
+> Host: 172.17.0.1:8080
+> Accept: */*
+> Content-Length: 65552
+> Content-Type: application/x-www-form-urlencoded
+> 
+} [data not shown]
+* HTTP 1.0, assume close after body
+< HTTP/1.0 200 OK
+< Access-Control-Allow-Headers: Content-Type, Content-Range, Content-Disposition, Content-Description, X-Requested-With
+< Access-Control-Allow-Methods: GET, PUT, POST, DELETE, OPTIONS
+< Access-Control-Allow-Origin: *
+< Date: Thu, 27 Apr 2017 01:02:16 GMT
+< Content-Length: 14
+< Content-Type: text/plain; charset=utf-8
+< 
+{ [data not shown]
+100 65566  100    14  100 65552   1066  4876k --:--:-- --:--:-- --:--:-- 5334k
+* Closing connection 0
+"Hello, Neha!"* Hostname was NOT found in DNS cache
+*   Trying 172.17.0.1...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 172.17.0.1 (172.17.0.1) port 8080 (#0)
+> POST /runLambda/hello HTTP/1.0
+> User-Agent: curl/7.35.0
+> Host: 172.17.0.1:8080
+> Accept: */*
+> Content-Length: 65552
+> Content-Type: application/x-www-form-urlencoded
+> 
+} [data not shown]
+* HTTP 1.0, assume close after body
+< HTTP/1.0 200 OK
+< Access-Control-Allow-Headers: Content-Type, Content-Range, Content-Disposition, Content-Description, X-Requested-With
+< Access-Control-Allow-Methods: GET, PUT, POST, DELETE, OPTIONS
+< Access-Control-Allow-Origin: *
+< Date: Thu, 27 Apr 2017 01:02:16 GMT
+< Content-Length: 14
+< Content-Type: text/plain; charset=utf-8
+< 
+{ [data not shown]
+100 65566  100    14  100 65552    999  4571k --:--:-- --:--:-- --:--:-- 4924k
+* Closing connection 0
+"Hello, Neha!"* Hostname was NOT found in DNS cache
+*   Trying 172.17.0.1...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 172.17.0.1 (172.17.0.1) port 8080 (#0)
+> POST /runLambda/hello HTTP/1.0
+> User-Agent: curl/7.35.0
+> Host: 172.17.0.1:8080
+> Accept: */*
+> Content-Length: 65552
+> Content-Type: application/x-www-form-urlencoded
+> 
+} [data not shown]
+* HTTP 1.0, assume close after body
+< HTTP/1.0 200 OK
+< Access-Control-Allow-Headers: Content-Type, Content-Range, Content-Disposition, Content-Description, X-Requested-With
+< Access-Control-Allow-Methods: GET, PUT, POST, DELETE, OPTIONS
+< Access-Control-Allow-Origin: *
+< Date: Thu, 27 Apr 2017 01:02:16 GMT
+< Content-Length: 14
+< Content-Type: text/plain; charset=utf-8
+< 
+{ [data not shown]
+100 65566  100    14  100 65552    995  4551k --:--:-- --:--:-- --:--:-- 4924k
+* Closing connection 0
+"Hello, Neha!"* Hostname was NOT found in DNS cache
+*   Trying 172.17.0.1...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 172.17.0.1 (172.17.0.1) port 8080 (#0)
+> POST /runLambda/hello HTTP/1.0
+> User-Agent: curl/7.35.0
+> Host: 172.17.0.1:8080
+> Accept: */*
+> Content-Length: 65552
+> Content-Type: application/x-www-form-urlencoded
+> 
+} [data not shown]
+* HTTP 1.0, assume close after body
+< HTTP/1.0 200 OK
+< Access-Control-Allow-Headers: Content-Type, Content-Range, Content-Disposition, Content-Description, X-Requested-With
+< Access-Control-Allow-Methods: GET, PUT, POST, DELETE, OPTIONS
+< Access-Control-Allow-Origin: *
+< Date: Thu, 27 Apr 2017 01:02:16 GMT
+< Content-Length: 14
+< Content-Type: text/plain; charset=utf-8
+< 
+{ [data not shown]
+100 65566  100    14  100 65552   1038  4749k --:--:-- --:--:-- --:--:-- 4924k
+* Closing connection 0
+"Hello, Neha!"* Hostname was NOT found in DNS cache
+*   Trying 172.17.0.1...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 172.17.0.1 (172.17.0.1) port 8080 (#0)
+> POST /runLambda/hello HTTP/1.0
+> User-Agent: curl/7.35.0
+> Host: 172.17.0.1:8080
+> Accept: */*
+> Content-Length: 65552
+> Content-Type: application/x-www-form-urlencoded
+> 
+} [data not shown]
+* HTTP 1.0, assume close after body
+< HTTP/1.0 200 OK
+< Access-Control-Allow-Headers: Content-Type, Content-Range, Content-Disposition, Content-Description, X-Requested-With
+< Access-Control-Allow-Methods: GET, PUT, POST, DELETE, OPTIONS
+< Access-Control-Allow-Origin: *
+< Date: Thu, 27 Apr 2017 01:02:16 GMT
+< Content-Length: 14
+< Content-Type: text/plain; charset=utf-8
+< 
+{ [data not shown]
+100 65566  100    14  100 65552   1061  4855k --:--:-- --:--:-- --:--:-- 5334k
+* Closing connection 0
+"Hello, Neha!"* Hostname was NOT found in DNS cache
+*   Trying 172.17.0.1...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 172.17.0.1 (172.17.0.1) port 8080 (#0)
+> POST /runLambda/hello HTTP/1.0
+> User-Agent: curl/7.35.0
+> Host: 172.17.0.1:8080
+> Accept: */*
+> Content-Length: 65552
+> Content-Type: application/x-www-form-urlencoded
+> 
+} [data not shown]
+* HTTP 1.0, assume close after body
+< HTTP/1.0 200 OK
+< Access-Control-Allow-Headers: Content-Type, Content-Range, Content-Disposition, Content-Description, X-Requested-With
+< Access-Control-Allow-Methods: GET, PUT, POST, DELETE, OPTIONS
+< Access-Control-Allow-Origin: *
+< Date: Thu, 27 Apr 2017 01:02:16 GMT
+< Content-Length: 14
+< Content-Type: text/plain; charset=utf-8
+< 
+{ [data not shown]
+100 65566  100    14  100 65552    986  4508k --:--:-- --:--:-- --:--:-- 4924k
+* Closing connection 0
+"Hello, Neha!"* Hostname was NOT found in DNS cache
+*   Trying 172.17.0.1...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 172.17.0.1 (172.17.0.1) port 8080 (#0)
+> POST /runLambda/hello HTTP/1.0
+> User-Agent: curl/7.35.0
+> Host: 172.17.0.1:8080
+> Accept: */*
+> Content-Length: 65552
+> Content-Type: application/x-www-form-urlencoded
+> 
+} [data not shown]
+* HTTP 1.0, assume close after body
+< HTTP/1.0 200 OK
+< Access-Control-Allow-Headers: Content-Type, Content-Range, Content-Disposition, Content-Description, X-Requested-With
+< Access-Control-Allow-Methods: GET, PUT, POST, DELETE, OPTIONS
+< Access-Control-Allow-Origin: *
+< Date: Thu, 27 Apr 2017 01:02:16 GMT
+< Content-Length: 14
+< Content-Type: text/plain; charset=utf-8
+< 
+{ [data not shown]
+100 65566  100    14  100 65552    693  3169k --:--:-- --:--:-- --:--:-- 3369k
+* Closing connection 0
+"Hello, Neha!"* Hostname was NOT found in DNS cache
+*   Trying 172.17.0.1...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 172.17.0.1 (172.17.0.1) port 8080 (#0)
+> POST /runLambda/hello HTTP/1.0
+> User-Agent: curl/7.35.0
+> Host: 172.17.0.1:8080
+> Accept: */*
+> Content-Length: 65552
+> Content-Type: application/x-www-form-urlencoded
+> 
+} [data not shown]
+* HTTP 1.0, assume close after body
+< HTTP/1.0 200 OK
+< Access-Control-Allow-Headers: Content-Type, Content-Range, Content-Disposition, Content-Description, X-Requested-With
+< Access-Control-Allow-Methods: GET, PUT, POST, DELETE, OPTIONS
+< Access-Control-Allow-Origin: *
+< Date: Thu, 27 Apr 2017 01:02:16 GMT
+< Content-Length: 14
+< Content-Type: text/plain; charset=utf-8
+< 
+{ [data not shown]
+100 65566  100    14  100 65552    947  4333k --:--:-- --:--:-- --:--:-- 4572k
+* Closing connection 0
+"Hello, Neha!"* Hostname was NOT found in DNS cache
+*   Trying 172.17.0.1...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 172.17.0.1 (172.17.0.1) port 8080 (#0)
+> POST /runLambda/hello HTTP/1.0
+> User-Agent: curl/7.35.0
+> Host: 172.17.0.1:8080
+> Accept: */*
+> Content-Length: 65552
+> Content-Type: application/x-www-form-urlencoded
+> 
+} [data not shown]
+* HTTP 1.0, assume close after body
+< HTTP/1.0 200 OK
+< Access-Control-Allow-Headers: Content-Type, Content-Range, Content-Disposition, Content-Description, X-Requested-With
+< Access-Control-Allow-Methods: GET, PUT, POST, DELETE, OPTIONS
+< Access-Control-Allow-Origin: *
+< Date: Thu, 27 Apr 2017 01:02:16 GMT
+< Content-Length: 14
+< Content-Type: text/plain; charset=utf-8
+< 
+{ [data not shown]
+100 65566  100    14  100 65552    899  4110k --:--:-- --:--:-- --:--:-- 4267k
+* Closing connection 0
+"Hello, Neha!"* Hostname was NOT found in DNS cache
+*   Trying 172.17.0.1...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 172.17.0.1 (172.17.0.1) port 8080 (#0)
+> POST /runLambda/hello HTTP/1.0
+> User-Agent: curl/7.35.0
+> Host: 172.17.0.1:8080
+> Accept: */*
+> Content-Length: 65552
+> Content-Type: application/x-www-form-urlencoded
+> 
+} [data not shown]
+* HTTP 1.0, assume close after body
+< HTTP/1.0 200 OK
+< Access-Control-Allow-Headers: Content-Type, Content-Range, Content-Disposition, Content-Description, X-Requested-With
+< Access-Control-Allow-Methods: GET, PUT, POST, DELETE, OPTIONS
+< Access-Control-Allow-Origin: *
+< Date: Thu, 27 Apr 2017 01:02:16 GMT
+< Content-Length: 14
+< Content-Type: text/plain; charset=utf-8
+< 
+{ [data not shown]
+100 65566  100    14  100 65552    950  4348k --:--:-- --:--:-- --:--:-- 4572k
+* Closing connection 0
+"Hello, Neha!"* Hostname was NOT found in DNS cache
+*   Trying 172.17.0.1...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 172.17.0.1 (172.17.0.1) port 8080 (#0)
+> POST /runLambda/hello HTTP/1.0
+> User-Agent: curl/7.35.0
+> Host: 172.17.0.1:8080
+> Accept: */*
+> Content-Length: 65552
+> Content-Type: application/x-www-form-urlencoded
+> 
+} [data not shown]
+* HTTP 1.0, assume close after body
+< HTTP/1.0 200 OK
+< Access-Control-Allow-Headers: Content-Type, Content-Range, Content-Disposition, Content-Description, X-Requested-With
+< Access-Control-Allow-Methods: GET, PUT, POST, DELETE, OPTIONS
+< Access-Control-Allow-Origin: *
+< Date: Thu, 27 Apr 2017 01:02:16 GMT
+< Content-Length: 14
+< Content-Type: text/plain; charset=utf-8
+< 
+{ [data not shown]
+100 65566  100    14  100 65552    961  4394k --:--:-- --:--:-- --:--:-- 4572k
+* Closing connection 0
+"Hello, Neha!"* Hostname was NOT found in DNS cache
+*   Trying 172.17.0.1...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 172.17.0.1 (172.17.0.1) port 8080 (#0)
+> POST /runLambda/hello HTTP/1.0
+> User-Agent: curl/7.35.0
+> Host: 172.17.0.1:8080
+> Accept: */*
+> Content-Length: 65552
+> Content-Type: application/x-www-form-urlencoded
+> 
+} [data not shown]
+* HTTP 1.0, assume close after body
+< HTTP/1.0 200 OK
+< Access-Control-Allow-Headers: Content-Type, Content-Range, Content-Disposition, Content-Description, X-Requested-With
+< Access-Control-Allow-Methods: GET, PUT, POST, DELETE, OPTIONS
+< Access-Control-Allow-Origin: *
+< Date: Thu, 27 Apr 2017 01:02:16 GMT
+< Content-Length: 14
+< Content-Type: text/plain; charset=utf-8
+< 
+{ [data not shown]
+100 65566  100    14  100 65552   1019  4663k --:--:-- --:--:-- --:--:-- 4924k
+* Closing connection 0
+"Hello, Neha!"* Hostname was NOT found in DNS cache
+*   Trying 172.17.0.1...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 172.17.0.1 (172.17.0.1) port 8080 (#0)
+> POST /runLambda/hello HTTP/1.0
+> User-Agent: curl/7.35.0
+> Host: 172.17.0.1:8080
+> Accept: */*
+> Content-Length: 65552
+> Content-Type: application/x-www-form-urlencoded
+> 
+} [data not shown]
+* HTTP 1.0, assume close after body
+< HTTP/1.0 200 OK
+< Access-Control-Allow-Headers: Content-Type, Content-Range, Content-Disposition, Content-Description, X-Requested-With
+< Access-Control-Allow-Methods: GET, PUT, POST, DELETE, OPTIONS
+< Access-Control-Allow-Origin: *
+< Date: Thu, 27 Apr 2017 01:02:16 GMT
+< Content-Length: 14
+< Content-Type: text/plain; charset=utf-8
+< 
+{ [data not shown]
+100 65566  100    14  100 65552   1033  4724k --:--:-- --:--:-- --:--:-- 4924k
+* Closing connection 0
+"Hello, Neha!"* Hostname was NOT found in DNS cache
+*   Trying 172.17.0.1...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 172.17.0.1 (172.17.0.1) port 8080 (#0)
+> POST /runLambda/hello HTTP/1.0
+> User-Agent: curl/7.35.0
+> Host: 172.17.0.1:8080
+> Accept: */*
+> Content-Length: 65552
+> Content-Type: application/x-www-form-urlencoded
+> 
+} [data not shown]
+* HTTP 1.0, assume close after body
+< HTTP/1.0 200 OK
+< Access-Control-Allow-Headers: Content-Type, Content-Range, Content-Disposition, Content-Description, X-Requested-With
+< Access-Control-Allow-Methods: GET, PUT, POST, DELETE, OPTIONS
+< Access-Control-Allow-Origin: *
+< Date: Thu, 27 Apr 2017 01:02:16 GMT
+< Content-Length: 14
+< Content-Type: text/plain; charset=utf-8
+< 
+{ [data not shown]
+100 65566  100    14  100 65552   1058  4841k --:--:-- --:--:-- --:--:-- 4572k100 65566  100    14  100 65552   1053  4815k --:--:-- --:--:-- --:--:-- 4572k
+* Closing connection 0
+"Hello, Neha!"* Hostname was NOT found in DNS cache
+*   Trying 172.17.0.1...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 172.17.0.1 (172.17.0.1) port 8080 (#0)
+> POST /runLambda/hello HTTP/1.0
+> User-Agent: curl/7.35.0
+> Host: 172.17.0.1:8080
+> Accept: */*
+> Content-Length: 65552
+> Content-Type: application/x-www-form-urlencoded
+> 
+} [data not shown]
+* HTTP 1.0, assume close after body
+< HTTP/1.0 200 OK
+< Access-Control-Allow-Headers: Content-Type, Content-Range, Content-Disposition, Content-Description, X-Requested-With
+< Access-Control-Allow-Methods: GET, PUT, POST, DELETE, OPTIONS
+< Access-Control-Allow-Origin: *
+< Date: Thu, 27 Apr 2017 01:02:16 GMT
+< Content-Length: 14
+< Content-Type: text/plain; charset=utf-8
+< 
+{ [data not shown]
+100 65566  100    14  100 65552   1051  4808k --:--:-- --:--:-- --:--:-- 4924k
+* Closing connection 0
+"Hello, Neha!"

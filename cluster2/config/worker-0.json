@@ -11,7 +11,7 @@
 	"worker_dir": "/home/ubuntu/open-lambda/cluster2/workers/worker-0",
 	"Cgroup_init_path": "",
 	"Cgroup_base": "",
-	"worker_port": "8080",
+	"worker_port": "8081",
 	"sandbox_buffer": 0,
 	"Skip_pull_existing": false,
 	"sandbox_config": {

@@ -1,0 +1,202 @@
+500
+Time elapsed =5.22015810013
+500
+Time elapsed =5.27794599533
+500
+Time elapsed =5.27832984924
+500
+Time elapsed =5.28437805176
+500
+Time elapsed =5.27796506882
+500
+Time elapsed =5.2781598568
+500
+Time elapsed =5.27817511559
+500
+Time elapsed =5.27772092819
+500
+Time elapsed =5.27829289436
+500
+Time elapsed =5.277987957
+500
+Time elapsed =5.27843117714
+500
+Time elapsed =5.27793598175
+500
+Time elapsed =5.27772784233
+500
+Time elapsed =5.27847003937
+500
+Time elapsed =5.2783601284
+500
+Time elapsed =5.27810502052
+500
+Time elapsed =5.27824878693
+500
+Time elapsed =5.27757000923
+500
+Time elapsed =5.27881789207
+500
+Time elapsed =5.27840209007
+500
+Time elapsed =5.28467202187
+500
+Time elapsed =5.27731800079
+500
+Time elapsed =5.29858613014
+500
+Time elapsed =5.27365207672
+500
+Time elapsed =5.27597808838
+500
+Time elapsed =5.27806401253
+500
+Time elapsed =5.27877688408
+500
+Time elapsed =5.27797293663
+500
+Time elapsed =5.28246307373
+500
+Time elapsed =5.27821493149
+500
+Time elapsed =5.27857804298
+500
+Time elapsed =5.27994704247
+500
+Time elapsed =5.27757501602
+500
+Time elapsed =5.27846097946
+500
+Time elapsed =5.27841997147
+500
+Time elapsed =5.2783138752
+500
+Time elapsed =5.27785015106
+500
+Time elapsed =5.2785589695
+500
+Time elapsed =5.27762985229
+500
+Time elapsed =5.2799680233
+500
+Time elapsed =5.27621507645
+500
+Time elapsed =5.27936601639
+500
+Time elapsed =5.27801704407
+500
+Time elapsed =5.27855491638
+500
+Time elapsed =5.27735900879
+500
+Time elapsed =5.27750396729
+500
+Time elapsed =5.29348683357
+500
+Time elapsed =5.27515888214
+500
+Time elapsed =5.27785515785
+500
+Time elapsed =5.27802181244
+500
+Time elapsed =5.27777981758
+500
+Time elapsed =5.27800703049
+500
+Time elapsed =5.27825117111
+500
+Time elapsed =5.27844405174
+500
+Time elapsed =5.27794981003
+500
+Time elapsed =5.27839112282
+500
+Time elapsed =5.27777600288
+500
+Time elapsed =5.27791404724
+500
+Time elapsed =5.2783010006
+500
+Time elapsed =5.27823495865
+500
+Time elapsed =5.2787899971
+500
+Time elapsed =5.28374409676
+500
+Time elapsed =5.27845597267
+500
+Time elapsed =5.27781486511
+500
+Time elapsed =5.27770709991
+500
+Time elapsed =5.27821707726
+500
+Time elapsed =5.27805495262
+500
+Time elapsed =5.27825307846
+500
+Time elapsed =5.28162097931
+500
+Time elapsed =5.27944803238
+500
+Time elapsed =5.27856397629
+500
+Time elapsed =5.2845249176
+500
+Time elapsed =5.27845811844
+500
+Time elapsed =5.27836894989
+500
+Time elapsed =5.27861404419
+500
+Time elapsed =5.27800703049
+500
+Time elapsed =5.27793502808
+500
+Time elapsed =5.27822113037
+500
+Time elapsed =5.27869677544
+500
+Time elapsed =5.27867412567
+500
+Time elapsed =5.27937602997
+500
+Time elapsed =5.28257489204
+500
+Time elapsed =5.2784371376
+500
+Time elapsed =5.28158187866
+500
+Time elapsed =5.27885603905
+500
+Time elapsed =5.2785179615
+500
+Time elapsed =5.27809500694
+500
+Time elapsed =5.28812098503
+500
+Time elapsed =5.27918601036
+500
+Time elapsed =5.27811288834
+500
+Time elapsed =5.27764701843
+500
+Time elapsed =5.27918696404
+500
+Time elapsed =5.28236198425
+500
+Time elapsed =5.27645301819
+500
+Time elapsed =5.28034496307
+500
+Time elapsed =5.27875709534
+500
+Time elapsed =5.2793109417
+500
+Time elapsed =5.28549909592
+500
+Time elapsed =5.27941989899
+500
+Time elapsed =5.27853393555
+Average Time =5.27857314587
+minTime =5.22015810013

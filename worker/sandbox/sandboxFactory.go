@@ -88,7 +88,8 @@ func (df *DockerSBFactory) Create(handlerDir string, sandboxDir string) (Sandbox
 			},
 			HostConfig: &docker.HostConfig{
 				Privileged: true,
-				Binds: volumes,
+				Binds:      volumes,
+				//IpcMode:    "host",
 			},
 		},
 	)

@@ -1,0 +1,6 @@
+cp /var/lib/docker/overlay/14fa7beecda55fb7a05c5eef03511e0f5984f24b320dcdff2e38884b4a02a9e5/upper/curl_latency_cache_run_65536.txt .
+cp /var/lib/docker/overlay/14fa7beecda55fb7a05c5eef03511e0f5984f24b320dcdff2e38884b4a02a9e5/upper/curl_latency_cache_run_16384.txt .
+cp /var/lib/docker/overlay/14fa7beecda55fb7a05c5eef03511e0f5984f24b320dcdff2e38884b4a02a9e5/upper/curl_cache_output_16384.txt .
+cp /var/lib/docker/overlay/14fa7beecda55fb7a05c5eef03511e0f5984f24b320dcdff2e38884b4a02a9e5/upper/curl_cache_output_65536.txt .
+
+
