@@ -8,9 +8,6 @@ def handler(conn, event):
 	f = open("hello_output", 'wb')
 	# Create a TCP/IP socket
 	sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
-	f.write("socket == ")
-	f.write(str(sock))
-	f.write("==== ")
 	# Bind the socket to the port
 	f.write("socket address == ")
 	#server_address = ('http://172.17.0.1', 8089)

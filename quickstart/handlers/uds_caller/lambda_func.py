@@ -15,11 +15,12 @@ def child():
 	sock = socket.socket(socket.AF_UNIX, socket.SOCK_STREAM)
 	
 	# Connect the socket to the port where the server is listening
-	server_address = '/home/ubuntu/uds1.sock'
+	server_address = '/home/ubuntu/open-lambda/cluster1/workers/worker-0/handlers/hello/sandbox/ol.sock'
 	f.write( 'connecting to %s' % server_address)
 	print >>sys.stderr, 'connecting to %s' % server_address
 	try:
 	    sock.connect(server_address)
+	    f.write( 'connected')
 	except socket.error, msg:
 	    print >>sys.stderr, msg
 	    sys.exit(1)

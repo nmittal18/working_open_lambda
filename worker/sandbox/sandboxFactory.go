@@ -78,6 +78,18 @@ func (df *DockerSBFactory) Create(handlerDir string, sandboxDir string) (Sandbox
 		fmt.Sprintf("%s:%s:ro,slave", handlerDir, "/handler"),
 		fmt.Sprintf("%s:%s:slave", sandboxDir, "/host"),
 	}
+//	myPort := map[docker.Port]struct{}{ "4567/tcp":{}}
+//        myBind := map[docker.Port][]docker.PortBinding{
+//                        "4567/tcp":{ {
+//                                      //HostIP:"0.0.0.0",
+//                              //        HostPort: "1111",
+//                                   } },
+//                    }
+	//exposedCadvPort := map[docker.Port]struct{}{
+	//	"4567/tcp": {}}
+        //portBindings := map[docker.Port][]docker.PortBinding{
+        //        "4567/tcp": {{HostIP: "0.0.0.0", HostPort: "1111"}},
+        //}
 	container, err := df.client.CreateContainer(
 		docker.CreateContainerOptions{
 			Config: &docker.Config{
@@ -85,11 +97,16 @@ func (df *DockerSBFactory) Create(handlerDir string, sandboxDir string) (Sandbox
 				Labels: df.labels,
 				Env:    df.env,
 				Cmd:    df.cmd,
+				//ExposedPorts: myPort,
+                                //ExposedPorts: exposedCadvPort,
 			},
 			HostConfig: &docker.HostConfig{
 				Privileged: true,
 				Binds:      volumes,
+				NetworkMode: "host",
 				//IpcMode:    "host",
+				//PortBindings:    myBind,
+                                //PublishAllPorts: true,
 			},
 		},
 	)

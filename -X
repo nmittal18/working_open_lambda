@@ -1,0 +1,36 @@
+== Info: Rebuilt URL to: POST/
+== Info: Could not resolve host: POST
+== Info: Closing connection 0
+== Info:   Trying 172.31.43.79...
+== Info: Connected to 172.31.43.79 (172.31.43.79) port 8080 (#1)
+=> Send header, 166 bytes (0xa6)
+0000: POST /runLambda/hello HTTP/1.1
+0020: Host: 172.31.43.79:8080
+0039: User-Agent: curl/7.47.0
+0052: Accept: */*
+005f: Content-Length: 17
+0073: Content-Type: application/x-www-form-urlencoded
+00a4: 
+=> Send data, 17 bytes (0x11)
+0000: {"name": "Alice"}
+== Info: upload completely sent off: 17 out of 17 bytes
+<= Recv header, 17 bytes (0x11)
+0000: HTTP/1.1 200 OK
+<= Recv header, 119 bytes (0x77)
+0000: Access-Control-Allow-Headers: Content-Type, Content-Range, Conte
+0040: nt-Disposition, Content-Description, X-Requested-With
+<= Recv header, 63 bytes (0x3f)
+0000: Access-Control-Allow-Methods: GET, PUT, POST, DELETE, OPTIONS
+<= Recv header, 32 bytes (0x20)
+0000: Access-Control-Allow-Origin: *
+<= Recv header, 37 bytes (0x25)
+0000: Date: Wed, 03 May 2017 03:37:51 GMT
+<= Recv header, 20 bytes (0x14)
+0000: Content-Length: 14
+<= Recv header, 41 bytes (0x29)
+0000: Content-Type: text/plain; charset=utf-8
+<= Recv header, 2 bytes (0x2)
+0000: 
+<= Recv data, 14 bytes (0xe)
+0000: "Hello, Neha!"
+== Info: Connection #1 to host 172.31.43.79 left intact
